@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: */tags/
+Disallow: */themen/
 Disallow: */categories/
 
 sitemap: https://vagr9k.github.io/gatsby-advanced-starter/sitemap.xml

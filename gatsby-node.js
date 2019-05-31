@@ -127,7 +127,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
   tagSet.forEach(tag => {
     createPage({
-      path: `/tags/${_.kebabCase(tag)}/`,
+      path: `/themen/${_.kebabCase(tag)}/`,
       component: tagPage,
       context: {
         tag
