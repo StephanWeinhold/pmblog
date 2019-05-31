@@ -6,18 +6,18 @@ class PostTags extends Component {
   render() {
     const { tags } = this.props;
     return (
-      <div className="post-tag-container">
+      <span className="post-tag-container">
         {tags &&
           tags.map(tag => (
             <Link
               key={tag}
-              style={{ textDecoration: "none" }}
+              className="tag link mr2 pv1 ph2 underline-hover bg-green white"
               to={`/themen/${_.kebabCase(tag)}`}
             >
-              <button>{tag}</button>
+              {tag}
             </Link>
           ))}
-      </div>
+      </span>
     );
   }
 }
