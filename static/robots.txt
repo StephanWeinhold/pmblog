@@ -1,5 +1,5 @@
 User-agent: *
 Disallow: */themen/
-Disallow: */categories/
+Disallow: */kategorien/
 
-sitemap: https://vagr9k.github.io/gatsby-advanced-starter/sitemap.xml
+sitemap: https://projektmanagementblog.de/sitemap.xml
