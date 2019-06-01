@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "gatsby";
 import PostTags from "../PostTags/PostTags";
 import PostCategory from "../PostCategory/PostCategory";
+import moment from "moment";
 
 class PostListing extends React.Component {
   getPostList() {
@@ -30,7 +31,7 @@ class PostListing extends React.Component {
           <article key={post.id} class="pt4">
             <h1><Link to={post.path} className="link black-90">{post.title}</Link></h1>
             <nav>
-              <span class="mr2 black-50"><time datetime={post.date}>{post.date}</time></span>
+              <span class="mr2 black-50"><time datetime={post.date}>{moment(post.date).format('D.M.YYYY')}</time></span>
               <PostCategory category={post.category} />
               <PostTags tags={post.tags} />
             </nav>               
