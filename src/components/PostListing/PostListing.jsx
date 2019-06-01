@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import PostTags from "../PostTags/PostTags";
+import PostCategory from "../PostCategory/PostCategory";
 
 class PostListing extends React.Component {
   getPostList() {
@@ -10,6 +11,7 @@ class PostListing extends React.Component {
         id: postEdge.node.id,
         path: postEdge.node.fields.slug,
         tags: postEdge.node.frontmatter.tags,
+        category: postEdge.node.frontmatter.category,
         cover: postEdge.node.frontmatter.cover,
         title: postEdge.node.frontmatter.title,
         date: postEdge.node.fields.date,
@@ -29,6 +31,7 @@ class PostListing extends React.Component {
             <h1><Link to={post.path} className="link black-90">{post.title}</Link></h1>
             <nav>
               <span class="mr2 black-50"><time datetime="2019-03-11T00:00:00.000+00:00">{post.date}</time></span>
+              <PostCategory category={post.category} />
               <PostTags tags={post.tags} />
             </nav>               
             <p class="mv4">
