@@ -12,7 +12,7 @@ class Themen extends React.Component {
     return (
       <Layout>
         <div className="index-container">
-          <Helmet title={`Themen | ${config.siteTitle}`} />
+          <Helmet title={`Kategorien | ${config.siteTitle}`} />
           <SEO />
           <CategoryListing categoryEdges={categoryEdges} />
         </div>
