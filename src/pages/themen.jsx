@@ -12,7 +12,7 @@ class Themen extends React.Component {
     return (
       <Layout>
         <div className="index-container">
-          <Helmet title={config.siteTitle} />
+          <Helmet title={`Themen | ${config.siteTitle}`} />
           <SEO />
           <TagListing tagEdges={tagEdges} />
         </div>
