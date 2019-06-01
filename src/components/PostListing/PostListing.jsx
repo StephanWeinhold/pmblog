@@ -30,7 +30,7 @@ class PostListing extends React.Component {
           <article key={post.id} class="pt4">
             <h1><Link to={post.path} className="link black-90">{post.title}</Link></h1>
             <nav>
-              <span class="mr2 black-50"><time datetime="2019-03-11T00:00:00.000+00:00">{post.date}</time></span>
+              <span class="mr2 black-50"><time datetime={post.date}>{post.date}</time></span>
               <PostCategory category={post.category} />
               <PostTags tags={post.tags} />
             </nav>               
