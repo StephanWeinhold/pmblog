@@ -17,7 +17,7 @@ export default class MainLayout extends React.Component {
         </Helmet>
         
         <style dangerouslySetInnerHTML={{__html: `
-          .tag:before {
+          .tag:before,
           .category:before {
             content: "#";
           }
