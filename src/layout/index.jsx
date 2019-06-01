@@ -56,8 +56,8 @@ export default class MainLayout extends React.Component {
         
         <section id="prefooter" class="w-100 mt4 cover bg-blue">
           <div class="center w-90 w-60-ns pv3">
-            <p class="">
-              Hier kannst Du Dich für meinen Newsletter anmelden und Dich über neue Artikel informieren lassen.
+            <p class="black-90">
+              <h3>Du willst keinen Artikel mehr verpassen? Hier kannst Du Dich für meinen Newsletter anmelden.</h3>
             </p>
             <input placeholder="E-Mail Adresse" class="mw-100 w-100 w5-ns f5 input-reset ba b--black-20 pv3 ph4 border-box" />
             <input type="submit" class="input-reset w-100 w-auto-ns bg-black-80 white f5 pv2 pv3-ns ph4 ba b--black-80 bg-hover-mid-gray" />
