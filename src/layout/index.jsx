@@ -41,7 +41,7 @@ export default class MainLayout extends React.Component {
             <a href="/" class="link mr3 pv1 ph2 underline-hover bg-dark-blue white">Alle Artikel</a>
             <a href="/kategorien" class="link mr3 pv1 ph2 underline-hover bg-gold white">#Alle Kategorien</a>
             <a href="/themen" class="dn di-ns link mr3 pv1 ph2 underline-hover bg-green white">#Alle Themen</a>
-            <a href="#" class="link mr3 pv1 ph2 underline-hover bg-red white">Newsletter</a>
+            <a href="/newsletter" class="link mr3 pv1 ph2 underline-hover bg-red white">Newsletter</a>
             <a href="/stephan-weinhold" class="dn di-ns link mr3 pv1 ph2 underline-hover bg-light-purple white">Über mich</a>
           </nav>
         </section>
@@ -59,7 +59,7 @@ export default class MainLayout extends React.Component {
             <p class="">
               Hier kannst Du Dich für meinen Newsletter anmelden und Dich über neue Artikel informieren lassen.
             </p>
-            <input placeholder="Email Address" class="mw-100 w-100 w5-ns f5 input-reset ba b--black-20 pv3 ph4 border-box" />
+            <input placeholder="E-Mail Adresse" class="mw-100 w-100 w5-ns f5 input-reset ba b--black-20 pv3 ph4 border-box" />
             <input type="submit" class="input-reset w-100 w-auto-ns bg-black-80 white f5 pv2 pv3-ns ph4 ba b--black-80 bg-hover-mid-gray" />
           </div>
         </section>
