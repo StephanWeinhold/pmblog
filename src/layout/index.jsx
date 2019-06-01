@@ -40,7 +40,7 @@ export default class MainLayout extends React.Component {
             <a href="/" class="link mr3 pv1 ph2 underline-hover bg-dark-blue white">Alle Artikel</a>
             <a href="/themen" class="link mr3 pv1 ph2 underline-hover bg-gold white">#Alle Themen</a>
             <a href="#" class="link mr3 pv1 ph2 underline-hover bg-red white">Newsletter</a>
-            <a href="#" class="dn di-ns link mr3 pv1 ph2 underline-hover bg-light-purple white">Über mich</a>
+            <a href="/stephan-weinhold" class="dn di-ns link mr3 pv1 ph2 underline-hover bg-light-purple white">Über mich</a>
           </nav>
         </section>
         

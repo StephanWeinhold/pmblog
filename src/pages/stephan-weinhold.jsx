@@ -9,7 +9,7 @@ class AboutPage extends Component {
     return (
       <Layout>
         <div className="about-container">
-          <Helmet title={`About | ${config.siteTitle}`} />
+          <Helmet title={`Stephan Weinhold | ${config.siteTitle}`} />
           <About />
         </div>
       </Layout>
