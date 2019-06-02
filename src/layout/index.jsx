@@ -29,6 +29,8 @@ export default class MainLayout extends React.Component {
         
         <section class="w-100 bb b--light-silver">
           <header class="dt-l center w-90 w-60-ns pa1">
+            <a href="https://www.projectmanagement.com/blog/Modern-PM" class="fr link mt3 pv1 ph2 underline-hover bg-blue white" title="English version">en</a>
+          
             <a class="link" href="/" title="{config.siteTitle}">
               <h1 class="mv2 f4 black-90">{config.siteTitle}</h1>
             </a>
@@ -39,8 +41,8 @@ export default class MainLayout extends React.Component {
         <section class="w-100">
           <nav class="dt center w-90 w-60-ns pv3">
             <a href="/" class="link mr3 pv1 ph2 underline-hover bg-dark-blue white">Alle Artikel</a>
-            <a href="/kategorien" class="link mr3 pv1 ph2 underline-hover bg-gold white">#Alle Kategorien</a>
-            <a href="/themen" class="dn di-ns link mr3 pv1 ph2 underline-hover bg-green white">#Alle Themen</a>
+            <a href="/kategorien" class="link mr3 pv1 ph2 underline-hover bg-gold white">#Kategorien</a>
+            <a href="/themen" class="dn di-ns link mr3 pv1 ph2 underline-hover bg-green white">#Themen</a>
             <a href="/newsletter" class="link mr3 pv1 ph2 underline-hover bg-red white">Newsletter</a>
             <a href="/stephan-weinhold" class="dn di-ns link mr3 pv1 ph2 underline-hover bg-light-purple white">Über mich</a>
           </nav>
