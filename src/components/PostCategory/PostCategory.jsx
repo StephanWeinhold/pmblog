@@ -20,7 +20,7 @@ class PostCategory extends Component {
       );
     }
     else {
-      return (<span></span>);
+      return (<span />);
     }
   }
 }
