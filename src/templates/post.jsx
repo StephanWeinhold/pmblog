@@ -35,7 +35,6 @@ export default class PostTemplate extends React.Component {
             <div className="post-meta">
               <PostCategory category={post.category} />
               <PostTags tags={post.tags} />
-              <SocialLinks postPath={slug} postNode={postNode} />
             </div>
             <div className="cf ph2-ns">
               <div className="fl w-100 w-50-ns pa2">
