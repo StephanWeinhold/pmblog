@@ -1,6 +1,7 @@
-# projektmanagementblog.de based on Gatsby
+# projektmanagementblog.de based on Gatsby - work in progress!
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/52bb9177e180bc3ad26f/maintainability)](https://codeclimate.com/github/StephanWeinhold/pmblog/maintainability)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fc50f0896e62481aadf1ab7214dfa79d)](https://www.codacy.com/app/StephanWeinhold/pmblog?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=StephanWeinhold/pmblog&amp;utm_campaign=Badge_Grade)
 
 ## Features
 
