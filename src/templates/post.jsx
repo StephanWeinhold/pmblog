@@ -37,7 +37,6 @@ export default class PostTemplate extends React.Component {
               <PostTags tags={post.tags} />
               <SocialLinks postPath={slug} postNode={postNode} />
             </div>
-            <UserInfo config={config} />
             <div className="cf ph2-ns">
               <div className="fl w-100 w-50-ns pa2">
                 <a className="link db" href={pageContext.prevslug}>
