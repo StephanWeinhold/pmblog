@@ -39,20 +39,20 @@ export default class PostTemplate extends React.Component {
               <SocialLinks postPath={slug} postNode={postNode} />
             </div>
             <UserInfo config={config} />
-            <div className="">
-              <div className="">
-                <a className="" href={pageContext.prevslug}>
-                  <h4 className="">Previous</h4>
-                  <span className="">
+            <div className="cf ph2-ns">
+              <div className="fl w-100 w-50-ns pa2">
+                <a className="link db" href={pageContext.prevslug}>
+                  <h4 className="mb2 normal silver">Vorheriger Artikel</h4>
+                  <span className="b dark-blue">
                     &#8592;{' '}
                     {pageContext.prevtitle}
                   </span>
                 </a>
               </div>
-              <div className="">
-                <a className="" href={pageContext.nextslug}>
-                  <h4 className="">Next</h4>
-                  <span className="">
+              <div className="fl w-100 w-50-ns pa2">
+                <a className="link db tr" href={pageContext.nextslug}>
+                  <h4 className="mb2 normal tr silver">Nächster Artikel</h4>
+                  <span className="b tr dark-blue">
                     {pageContext.nexttitle}
                     {' '}&#8594;
                   </span>
