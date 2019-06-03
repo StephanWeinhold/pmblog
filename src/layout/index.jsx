@@ -24,7 +24,8 @@ export default class MainLayout extends React.Component {
           #prefooter {
             background-image: url('../../bg_scribble.jpg');
           }
-        `}} />
+        `}} 
+         />
         
         <section className="w-100 bb b--light-silver">
           <header className="dt-l center w-90 w-60-ns pa1">
