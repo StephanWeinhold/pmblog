@@ -1,10 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./projekte-praesentieren.jpg"
 title: "Präsentieren, aber richtig" 
 date: 2019-05-24T11:00:00.000Z
 path: /praesentieren-aber-richtig
-category: ""
+category: "tellerrand"
 tags: ["kommunikation"]
 photocredits: "Campaign Creators und Joacim Bohlander auf Unsplash"
 description: "Vier Punkte, die in meinen Augen den Unterschied zwischen einer guten und einer richtig guten Präsentation ausmachen."
