@@ -69,7 +69,7 @@ export default class MainLayout extends React.Component {
         <section className="w-100 bg-navy">
           <footer className="center w-90 w-60-ns pv4">
             <div className="cf ph2-ns">
-              <div className="fl w-100 w-50-ns">
+              <div className="fl w-100 w-50-ns overflow-hidden">
                 <nav className="mv1">
                   <ul className="list pl0">
                     <li className="mb3">
@@ -86,7 +86,7 @@ export default class MainLayout extends React.Component {
                   </ul>
                 </nav>
               </div>
-              <div className="fl w-100 w-50-ns mv2">
+              <div className="fl w-100 w-50-ns mv2 pl2">
                 <nav>
                   <a className="link hover-silver white mr3" href="#" title="RSS">
                     <svg className="h2 w2" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fillRule="evenodd" clipRule="evenodd" strokeLinejoin="round" strokeMiterlimit="1.414">
