@@ -21,6 +21,10 @@ export default class MainLayout extends React.Component {
             content: "#";
           }
           
+          .nav-lh {
+            line-height: 2em;
+          }
+          
           #prefooter {
             background-image: url('../../bg_scribble.jpg');
           }
@@ -39,7 +43,7 @@ export default class MainLayout extends React.Component {
         </section>
         
         <section className="w-100">
-          <nav className="dt center w-90 w-60-ns pv3">
+          <nav className="nav-lh dt center w-90 w-60-ns pv3">
             <a href="/" className="link mr3 pv1 ph2 underline-hover bg-dark-blue white">Alle Artikel</a>
             <a href="/kategorien" className="link mr3 pv1 ph2 underline-hover bg-gold white">#Kategorien</a>
             <a href="/themen" className="dn di-ns link mr3 pv1 ph2 underline-hover bg-green white">#Themen</a>
