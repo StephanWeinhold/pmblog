@@ -11,6 +11,7 @@ class UserLinks extends Component {
       </button>
     ));
   }
+  
   render() {
     const { userLinks } = this.props.config;
     if (!userLinks) {

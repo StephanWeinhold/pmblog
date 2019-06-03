@@ -27,7 +27,11 @@ class TagListing extends React.Component {
                 to={`/themen/${_.kebabCase(tag.fieldValue)}`}
                 className="tag link mr2 pv1 ph2 underline-hover bg-green white"
               >
-                {tag.fieldValue} ({tag.totalCount})
+                {tag.fieldValue} 
+                {' '}
+                (
+                  {tag.totalCount}
+                )
               </Link>
             </li>
           ))}

@@ -19,7 +19,8 @@ class PostCategory extends Component {
         </span>
       );
     }
-    else {
+    
+    if (!category) {
       return (<span />);
     }
   }

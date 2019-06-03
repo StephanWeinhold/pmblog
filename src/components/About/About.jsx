@@ -8,7 +8,11 @@ class About extends Component {
         <img src={me} alt="Stephan Weinhold - Projektmanager und Vortragender aus Salzburg" />        
         <h2>Über Stephan Weinhold</h2>
         <p>        
-          <a href="https://stephanweinhold.com"><strong>Stephan Weinhold</strong></a> ist ein Projektmanager mit 
+          <a href="https://stephanweinhold.com">
+            <strong>Stephan Weinhold</strong>
+          </a> 
+          {' '}
+          ist ein Projektmanager mit 
           über 15 Jahren Erfahrung im hybriden Projektmanagement, einer Vorliebe für 
           Technologie, und ohne Scheu, anzupacken und Neues auf die Beine zu stellen. 
           Er hat unter anderem Projekte in den Bereichen IT,
@@ -26,7 +30,7 @@ class About extends Component {
         </p>
         <h2>Über diesen Blog</h2>
         <p>
-          <strong>Modernes PM</strong> ist ein Blog über modernes Projektmanagement in all seinen Ausprägungen.
+          Der <strong>Projektmanagementblog</strong> ist ein Blog über modernes Projektmanagement in all seinen Ausprägungen.
           Klassisch, agil, hybrid. Ich schreibe hier meine Gedanken zu den Entwicklungen, 
           Trends, Problemen und Herausforderungen, denen wir in unserem Arbeitsalltag 
           als Projektarbeiter so begegnen und wie die Lösungen dazu in meinen Augen aussehen könnten.

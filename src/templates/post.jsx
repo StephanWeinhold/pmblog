@@ -38,7 +38,8 @@ export default class PostTemplate extends React.Component {
                 <a className="link db" href={pageContext.prevslug}>
                   <h4 className="mb2 normal silver">Vorheriger Artikel</h4>
                   <span className="b dark-blue">
-                    &#8592;{' '}
+                    &#8592;
+                    {' '}
                     {pageContext.prevtitle}
                   </span>
                 </a>
@@ -48,7 +49,8 @@ export default class PostTemplate extends React.Component {
                   <h4 className="mb2 normal tr silver">Nächster Artikel</h4>
                   <span className="b tr dark-blue">
                     {pageContext.nexttitle}
-                    {' '}&#8594;
+                    {' '}
+                    &#8594;
                   </span>
                 </a>
               </div>
