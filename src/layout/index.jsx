@@ -6,7 +6,7 @@ export default class MainLayout extends React.Component {
   render() {
     const { children } = this.props;
     return (
-      <div>
+      <div className="helvetica system-sans-serif">
         <Helmet>
           <meta charSet="utf-8" />
           <title>{config.siteTitle}</title>
