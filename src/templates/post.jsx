@@ -71,7 +71,9 @@ export const pageQuery = graphql`
       excerpt
       frontmatter {
         title
-        cover
+        cover {
+          id
+        }
         date
         category
         tags
