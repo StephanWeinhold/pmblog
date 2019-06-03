@@ -20,17 +20,17 @@ class CategoryListing extends React.Component {
         <h1>Alle Kategorien</h1>
         <p>Hier findet Ihr eine Liste aller Projektmanagement-Kategorien, in die meine Artikel gegliedert sind.</p>
         <ul className="list pl0">
-        {
-        categoryList.map(category => (
-          <li key={category.fieldValue} className="mb3">
-            <Link 
-              to={`/kategorien/${_.kebabCase(category.fieldValue)}`}
-              className="category link mr2 pv1 ph2 underline-hover bg-gold white"
-            >
-              {category.fieldValue} ({category.totalCount})
-            </Link>
-          </li>
-        ))}
+          {
+          categoryList.map(category => (
+            <li key={category.fieldValue} className="mb3">
+              <Link 
+                to={`/kategorien/${_.kebabCase(category.fieldValue)}`}
+                className="category link mr2 pv1 ph2 underline-hover bg-gold white"
+              >
+                {category.fieldValue} ({category.totalCount})
+              </Link>
+            </li>
+          ))}
         </ul>
       </div>
     );
