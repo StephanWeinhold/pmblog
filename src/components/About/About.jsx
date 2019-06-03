@@ -30,7 +30,9 @@ class About extends Component {
         </p>
         <h2>Über diesen Blog</h2>
         <p>
-          Der <strong>Projektmanagementblog</strong> ist ein Blog über modernes Projektmanagement in all seinen Ausprägungen.
+          Der 
+          <strong>Projektmanagementblog</strong> 
+          ist ein Blog über modernes Projektmanagement in all seinen Ausprägungen.
           Klassisch, agil, hybrid. Ich schreibe hier meine Gedanken zu den Entwicklungen, 
           Trends, Problemen und Herausforderungen, denen wir in unserem Arbeitsalltag 
           als Projektarbeiter so begegnen und wie die Lösungen dazu in meinen Augen aussehen könnten.

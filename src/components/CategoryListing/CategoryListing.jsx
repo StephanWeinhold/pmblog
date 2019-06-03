@@ -13,6 +13,7 @@ class CategoryListing extends React.Component {
     });
     return categoryList;
   }
+  
   render() {
     const categoryList = this.getCategoryList();
     return (

@@ -30,7 +30,7 @@ class TagListing extends React.Component {
                 {tag.fieldValue} 
                 {' '}
                 (
-                  {tag.totalCount}
+                {tag.totalCount}
                 )
               </Link>
             </li>
