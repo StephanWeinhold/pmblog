@@ -13,6 +13,7 @@ class TagListing extends React.Component {
     });
     return tagList;
   }
+  
   render() {
     const tagList = this.getTagList();
     return (
