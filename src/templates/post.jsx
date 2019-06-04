@@ -26,9 +26,9 @@ export default class PostTemplate extends React.Component {
             <title>{`${post.title} | ${config.siteTitle}`}</title>
           </Helmet>
           <SEO postPath={slug} postNode={postNode} postSEO />
-          <div className="lh-copy">
+          <div>
             <h1>{post.title}</h1>
-            <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
+            <div className="lh-copy measure-wide" dangerouslySetInnerHTML={{ __html: postNode.html }} />
             <div className="post-meta">
               <PostCategory category={post.category} />
               <PostTags tags={post.tags} />
