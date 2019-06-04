@@ -28,7 +28,11 @@ class CategoryListing extends React.Component {
                 to={`/kategorien/${_.kebabCase(category.fieldValue)}`}
                 className="category link mr2 pv1 ph2 underline-hover bg-gold white"
               >
-                {category.fieldValue} ({category.totalCount})
+                {category.fieldValue} 
+                {" "}
+                (
+                {category.totalCount}
+                )
               </Link>
             </li>
           ))}
