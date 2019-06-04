@@ -17,7 +17,7 @@ class Offenlegungdatenschutz extends Component {
           </address>
         </p>
         <p>
-          <span class="b">Modernes PM</span> 
+          <strong>Modernes PM</strong> 
           {" "}
           ist ein Blog über modernes Projektmanagement in all seinen Ausprägungen.
           Er ist unabhängig von Institutionen, Firmen und Interessengruppen.

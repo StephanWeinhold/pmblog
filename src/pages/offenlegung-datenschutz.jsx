@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import Helmet from "react-helmet";
 import Layout from "../layout";
-import About from "../components/About/About";
 import Offenlegungdatenschutz from "../components/Offenlegungdatenschutz/Offenlegungdatenschutz";
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
