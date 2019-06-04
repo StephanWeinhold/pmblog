@@ -8,9 +8,12 @@ class Offenlegungdatenschutz extends Component {
         <img src={me} alt="Stephan Weinhold - Projektmanager und Vortragender aus Salzburg" />        
         <p>
           <address>
-            Stephan Weinhold<br />
-            5020 Salzburg<br />
-            Österreich<br />
+            Stephan Weinhold
+            <br />
+            5020 Salzburg
+            <br />
+            Österreich
+            <br />
             <a href="mailto:stephan.weinhold@projektmanagementblog.de">
               stephan.weinhold@projektmanagementblog.de
             </a>
@@ -93,9 +96,12 @@ class Offenlegungdatenschutz extends Component {
         </p>
         <p>
           <address>
-            Stephan Weinhold<br />
-            5020 Salzburg<br />
-            Österreich<br />
+            Stephan Weinhold
+            <br />
+            5020 Salzburg
+            <br />
+            Österreich
+            <br />
             <a href="mailto:stephan.weinhold@projektmanagementblog.de">
               stephan.weinhold@projektmanagementblog.de
             </a>
