@@ -2,9 +2,9 @@ const config = {
   siteTitle: "Projektmanagementblog", // Site title.
   siteTitleShort: "Projektmanagementblog", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Projektmanagementblog. Klassisch, agil, hybrid.", // Alternative site title for SEO.
-  siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://vagr9k.github.io", // Domain of your website without pathPrefix.
-  pathPrefix: "/gatsby-advanced-starter", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
+  siteLogo: "/favicon.png", // Logo used for SEO and manifest.
+  siteUrl: "https://projektmanagementblog.de", // Domain of your website without pathPrefix.
+  pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Gedanken über Projektmanagement. Klassisch, agil, hybrid.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   googleAnalyticsID: "UA-74431055-2", // GA tracking ID.
@@ -15,30 +15,30 @@ const config = {
   userEmail: "stephan.weinhold@projektmanagementblog.de", // Email used for RSS feed's author segment
   userTwitter: "StephanWeinhold", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "Salzburg, Austria", // User location to display in the author segment.
-  userAvatar: "https://api.adorable.io/avatars/150/test.png", // User avatar to display in the author segment.
+  userAvatar: "/stephan-weinhold.png", // User avatar to display in the author segment.
   userDescription:
-    "Yeah, I like animals better than people sometimes... Especially dogs. Dogs are the best. Every time you come home, they act like they haven't seen you in a year. And the good thing about dogs... is they got different dogs for different people.", // User description to display in the author segment.
+    "Stephan Weinhold ist ein Projektmanager mit über 15 Jahren Erfahrung im hybriden Projektmanagement, einer Vorliebe für Technologie, und ohne Scheu, anzupacken und Neues auf die Beine zu stellen.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
       label: "GitHub",
-      url: "https://github.com/Vagr9K/gatsby-advanced-starter",
+      url: "https://github.com/StephanWeinhold",
       iconClassName: "fa fa-github"
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/Vagr9K",
+      url: "https://twitter.com/StephanWeinhold",
       iconClassName: "fa fa-twitter"
     },
     {
       label: "Email",
-      url: "mailto:vagr9k@gmail.com",
+      url: "mailto:stephan.weinhold@projektmanagementblog.de",
       iconClassName: "fa fa-envelope"
     }
   ],
-  copyright: "Copyright © 2019. Advanced User", // Copyright string for the footer of the website and RSS feed.
-  themeColor: "#c62828", // Used for setting manifest and progress theme colors.
-  backgroundColor: "#e0e0e0" // Used for setting manifest background color.
+  copyright: "Copyright © 2019. Stephan Weinhold", // Copyright string for the footer of the website and RSS feed.
+  themeColor: "#0065bd", // Used for setting manifest and progress theme colors.
+  backgroundColor: "#0065bd" // Used for setting manifest background color.
 };
 
 // Validate
