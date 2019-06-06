@@ -37,7 +37,7 @@ export const pageQuery = graphql`
             slug
             date
           }
-          excerpt(pruneLength: 350)
+          excerpt(pruneLength: 320)
           timeToRead
           frontmatter {
             title
