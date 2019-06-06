@@ -12,7 +12,7 @@ export default class MainLayout extends React.Component {
           <title>{config.siteTitle}</title>
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <meta name="description" content={config.siteDescription} />
-          <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css" />
+          <link rel="stylesheet" href="/tachyons.min.css" />
         </Helmet>
         
         <style dangerouslySetInnerHTML={{__html: `
