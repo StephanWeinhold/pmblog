@@ -7,7 +7,6 @@ const config = {
   pathPrefix: "/gatsby-advanced-starter", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Gedanken über Projektmanagement. Klassisch, agil, hybrid.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
-  siteFBAppID: "1825356251115265", // FB Application ID for using app insights
   googleAnalyticsID: "UA-74431055-2", // GA tracking ID.
   postDefaultCategoryID: "Projektmanagement", // Default category for posts.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
