@@ -76,6 +76,9 @@ export default class PostTemplate extends React.Component {
                 Du solltest ihm außerdem auf Twitter folgen
               </a>
               .
+              <em>
+                {post.photocredits? ' Bilder von ' + post.photocredits + '.': null}
+              </em>
             </p>
           </div>
         </div>
@@ -99,6 +102,7 @@ export const pageQuery = graphql`
         date
         category
         tags
+        photocredits
       }
       fields {
         slug
