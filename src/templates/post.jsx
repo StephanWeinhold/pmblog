@@ -60,7 +60,7 @@ export default class PostTemplate extends React.Component {
             <p className="lh-copy">
               {config.siteDescription}
               {" "}
-              <a href="https://stephanweinhold.com" target="_blank" className="link dark-blue">
+              <a href="https://stephanweinhold.com" target="_blank" rel="noopener noreferrer" className="link dark-blue">
                 Stephan Weinhold
               </a> 
               {" "}
