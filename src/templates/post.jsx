@@ -77,7 +77,7 @@ export default class PostTemplate extends React.Component {
               </a>
               .
               <em>
-                {post.photocredits? ` Bilder von ${post.photocredits}`.`: null}
+                {post.photocredits ? ` Bilder von ${post.photocredits}.` : null}
               </em>
             </p>
           </div>
