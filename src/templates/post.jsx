@@ -55,6 +55,28 @@ export default class PostTemplate extends React.Component {
                 </a>
               </div>
             </div>
+            
+            <hr className="mt4 mb2" />
+            <p className="lh-copy">
+              {config.siteDescription}
+              {" "}
+              <a href="https://stephanweinhold.com" target="_blank" className="link dark-blue">
+                Stephan Weinhold
+              </a> 
+              {" "}
+              ist übrigens auch auf 
+              {" "}
+              <a href="https://at.linkedin.com/in/stephanweinhold" target="_blank" rel="noopener noreferrer" className="link dark-blue">
+                LinkedIn
+              </a>
+              {" "}
+              zu finden.
+              {" "}
+              <a href="https://twitter.com/StephanWeinhold" target="_blank" rel="noopener noreferrer" className="link dark-blue">
+                Du solltest ihm außerdem auf Twitter folgen
+              </a>
+              .
+            </p>
           </div>
         </div>
       </Layout>
