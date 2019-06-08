@@ -1,10 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./agilitaet-veraenderung.jpg"
 title: "Ein Plädoyer für die Veränderung" 
 date: 2019-04-12T18:00:00.000Z
 path: /ein-plaedoyer-fuer-die-veraenderung
-category: ""
+category: "philosophie"
 tags: ["agil", "kanban"]
 photocredits: "Ross Findon auf Unsplash"
 description: "Von Agilität und warum manche Organisationen daran scheitern. Ein Gedankengang."

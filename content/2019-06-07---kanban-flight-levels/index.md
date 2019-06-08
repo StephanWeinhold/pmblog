@@ -1,10 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./kanban-flight-levels.jpg"
 title: "Kanban Flight Levels"
 date: 2019-06-07T11:00:00.000Z
 path: /kanban-flight-levels
-category: ""
+category: "tellerrand"
 tags: ["kanban"]
 photocredits: "Ross Parmly und Nhu Nguyen auf Unsplash"
 description: "Was sind Kanban Flight Levels und wie kann ich sie verwenden. Ein Blick über den Tellerrand."

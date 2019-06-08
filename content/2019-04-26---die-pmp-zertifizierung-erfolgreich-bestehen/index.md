@@ -1,10 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./pmp-zertifizierung.jpg"
 title: "Die PMP Zertifizierung erfolgreich bestehen" 
 date: 2019-04-26T11:00:00.000Z
 path: /die-pmp-zertifizierung-erfolgreich-bestehen
-category: ""
+category: "tippsUndTricks"
 tags: ["projektmanagement"]
 photocredits: "Raj Eiamworakul, Roman Mager, und Vasily Koloda auf Unsplash"
 description: "Welche Kurse gut sind und welche Tipps es gibt (ganz ohne Werbung, versprochen!)."
