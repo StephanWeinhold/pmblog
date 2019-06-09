@@ -1,10 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./scrum-und-kanban.jpg"
 title: "Was sind Scrum und Kanban eigentlich?" 
 date: 2018-11-16T20:00:00.000Z
 path: /was-sind-scrum-und-kanban
-category: ""
+category: "agile"
 tags: ["scrum", "kanban"]
 photocredits: "rawpixel und Daria Nepriakhina auf Unsplash"
 description: "Wovon reden da alle? Was ist das? Und haben die beiden wirklich so viel gemeinsam?"

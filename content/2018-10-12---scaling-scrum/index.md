@@ -1,10 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./scaling-scrum.jpg"
 title: "Was Hänschen nicht lernt - Scaling Scrum" 
 date: 2018-10-19T17:30:00.000Z
 path: /scaling-scrum
-category: ""
+category: "philosophie"
 tags: ["scrum"]
 photocredits: "Tyler Milligan und Toni Cuenca auf Unsplash"
 description: "Nach den ersten guten Erfahrungen mit Scrum, versuchen Organisationen oft, die Prozesse eine oder mehrere Ebenen höher zu heben. Kann das gut gehen? Spoiler Alert: Ich denke, eher nicht."

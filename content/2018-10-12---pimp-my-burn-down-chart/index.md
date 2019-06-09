@@ -1,10 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./pimp-my-burn-down-chart.jpg"
 title: "Pimp my Burn-Down-Chart" 
 date: 2018-10-12T16:00:00.000Z
 path: /pimp-my-burn-down-chart
-category: ""
+category: "tippsUndTricks"
 tags: ["scrum", "measurement"]
 photocredits: "Malcolm Lightbody auf Unsplash"
 description: "Wie wir unsere nichtssagenden (und oft auch langweiligen) Burn-Down-Charts Schritt für Schritt evolutionieren können."

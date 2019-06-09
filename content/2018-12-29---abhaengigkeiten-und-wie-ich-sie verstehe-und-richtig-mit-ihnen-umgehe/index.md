@@ -1,10 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./abhaengigkeiten-im-projektmanagement.jpg"
 title: "Abhängigkeiten und wie ich sie verstehe und richtig mit ihnen umgehe" 
 date: 2018-12-29T20:00:00.000Z
 path: /abhaengigkeiten-und-wie-ich-sie verstehe-und-richtig-mit-ihnen-umgehe
-category: ""
+category: "projektmanagement"
 tags: ["projektmanagement"]
 photocredits: "Randy Fath und Fancycrave auf Unsplash"
 description: "Wir haben jeden Tag mit Abhängigkeiten zu tun. Aber worum geht es dabei? Und worum geht es dabei wirklich?"

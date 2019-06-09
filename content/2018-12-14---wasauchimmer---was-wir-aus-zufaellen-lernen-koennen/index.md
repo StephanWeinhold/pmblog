@@ -1,10 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./supernova-google.jpg"
 title: "Wasauchimmer - was wir aus Zufällen lernen können" 
 date: 2018-12-14T15:00:00.000Z
 path: /wasauchimmer-was-wir-aus-zufaellen-lernen-koennen
-category: ""
+category: "philosophie"
 tags: ["zufall", "pair programming"]
 photocredits: "Neven Krcmarek und Benjamin Voros auf Unsplash"
 description: "Eine Geschichte über Google, Pair Programming, das Weltall, den Zufall, und die Gelassenheit"

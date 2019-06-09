@@ -1,16 +1,19 @@
 ---
 layout: post
 draft: false
+cover: "./agilitaet.jpg"
 title: "Agilität - was ist das eigentlich?" 
 date: 2018-12-07T10:00:00.000Z
 path: /was-ist-eigentlich-agilitaet
-category: ""
+category: "agile"
 tags: ["projektmanagement", "agilität", "kaizen", "scrum"]
-photocredits: "Stephan Weinhold"
+photocredits: "Ferenc Horvath auf Unsplash"
 description: "Eine Definition von Agilität - der Versuch, einer Kartographierung."
 ---
 
 Eine Definition von Agilität - der Versuch, einer Kartographierung.
+
+![Was ist Agilität](./agilitaet.jpg)
 
 ### Schlechte Angewohnheiten
 
@@ -60,4 +63,3 @@ Kaizen kann einem im Grunde so richtig leid tun. Denn so wirklich verstanden wir
 ### Also
 
 Was ist sie nun, die Agilität? Was bedeutet es, _agil_ zu sein? Und damit meine ich nicht, agil im Sinne der Betriebswirtschaftslehre, oder agil als Sammelbegriff für einige Projektmanagementframeworks, sondern generell und überhaupt. Agil zu sein bedeutet für mich a) situationselastisch zu leben und b) Kaizen zu leben. Ständige Veränderung. Die Grundeinstellung, dass nichts, aber auch gar nichts in meiner Arbeitswelt perfekt ist. Und der Antrieb, die Dinge um mich herum konstant verbessern zu wollen. _Small steps, right direction_, wie sie in den USA so schön sagen. Kleine Schritte auf eine große Vision zu. Und da ist es vollkommen egal, welche Methoden, welche Methodiken, welche Prozesse ich da verwende. Ob das jetzt Scrum ist (das übrigens [in meinen Augen eher wenig mit Agilität zu tun hat](ist-scrum-tot)), ob das jetzt Kanban ist, ob das ATDD ist, ob das Wasserfall ist, ob das das gute alte V-Model ist. Hauptsache, ich kann damit meine Arbeitswelt ein Stück weit besser machen.
-

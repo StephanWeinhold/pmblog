@@ -1,10 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./agile-fuehrungskraft.jpg"
 title: "Führungskräfte und die Umstellung auf Agilität" 
 date: 2018-11-02T10:00:00.000Z
 path: /fuehrungskraefte-und-die-umstellung-auf-agilitaet
-category: ""
+category: "agile"
 tags: ["team", "führungskraft", "agilität"]
 photocredits: "Matteo Vistocco auf Unsplash"
 description: "Diesmal habe ich ein Thema, das mit Projektmanagement eher peripher zu tun hat, nach dem ich in letzter Zeit aber häufig gefragt werde: was kommt auf mich Führungskraft zu, wenn meine Organisation von klassischer Führung auf Agilität umgestellt wird?"
