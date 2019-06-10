@@ -11,7 +11,17 @@ class NewsletterPage extends Component {
         <div className="about-container">
           <Helmet title={`Newsletter abonnieren | ${config.siteTitle}`} />
           <SEO />
-          Newsletter
+          <form name="contact" netlify>
+            <p>
+              <label>Name <input type="text" name="name" /></label>
+            </p>
+            <p>
+              <label>Email <input type="email" name="email" /></label>
+            </p>
+            <p>
+              <button type="submit">Send</button>
+            </p>
+          </form>
         </div>
       </Layout>
     );
