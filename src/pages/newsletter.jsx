@@ -13,16 +13,16 @@ class NewsletterPage extends Component {
           <SEO />
           <form id="newsletter-anmeldung" name="newsletter-anmeldung" method="POST" data-netlify="true">
             <p>
-              <label for="vorname">Vorname</label>
+              <label htmlFor="vorname">Vorname</label>
               {" "}
               <input type="text" name="vorname" id="vorname" />
               {" "}
-              <label for="nachname">Nachname</label>
+              <label htmlFor="nachname">Nachname</label>
               {" "}
               <input type="text" name="nachname" id="nachname" />
             </p>
             <p>
-              <label for="email">E-Mail Adresse</label>
+              <label htmlFor="email">E-Mail Adresse</label>
               {" "}
               <input type="email" name="email" id="email" />
             </p>
