@@ -11,15 +11,23 @@ class NewsletterPage extends Component {
         <div className="about-container">
           <Helmet title={`Newsletter abonnieren | ${config.siteTitle}`} />
           <SEO />
-          <form name="contact" netlify>
+          <form id="newsletter-anmeldung" name="newsletter-anmeldung" method="POST" data-netlify="true">
             <p>
-              <label>Name <input type="text" name="name" /></label>
+              <label for="vorname">Vorname</label>
+              {" "}
+              <input type="text" name="vorname" id="vorname" />
+              {" "}
+              <label for="nachname">Nachname</label>
+              {" "}
+              <input type="text" name="nachname" id="nachname" />
             </p>
             <p>
-              <label>Email <input type="email" name="email" /></label>
+              <label for="email">E-Mail Adresse</label>
+              {" "}
+              <input type="email" name="email" id="email" />
             </p>
             <p>
-              <button type="submit">Send</button>
+              <button type="submit">Anmelden</button>
             </p>
           </form>
         </div>
