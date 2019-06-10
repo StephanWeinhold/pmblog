@@ -5,6 +5,7 @@
 
 ## Features
 
+- Based on [Gatsby Advanced Starter](https://github.com/Vagr9K/gatsby-advanced-starter)
 - Gatsby v2 support
 - Blazing fast loading times thanks to pre-rendered HTML and automatic chunk loading of JS files
 - Separate components for everything
