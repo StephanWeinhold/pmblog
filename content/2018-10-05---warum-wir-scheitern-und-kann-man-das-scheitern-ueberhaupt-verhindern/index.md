@@ -1,10 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./scheitern.jpg"
 title: "Warum wir scheitern - und kann man das Scheitern überhaupt verhindern?" 
 date: 2018-10-05T13:00:00.000Z
 path: /warum-wir-scheitern-und-kann-man-das-scheitern-ueberhaupt-verhindern
-category: ""
+category: "philosophie"
 tags: ["projektmanagement"]
 photocredits: "Giuseppe Murabito auf Unsplash"
 description: "Versagen tut weh. Aber Projekte scheitern. Manche spektakulär, die meisten eher langsam und still. Aber was liegt dahinter? Und kann ich es verhindern?"

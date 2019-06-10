@@ -1,9 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./wie-motiviere-ich-mich-selbst.jpg"
 title: Was motiviert mich Projektmanager?
 date: "2018-08-16T15:47:00.000Z"
 path: /was-motiviert-mich-projektmanager
+category: "philosophie"
 tags: ["persönlichkeit", "motivation"]
 photocredits: "Clark Tibbs auf Unsplash"
 description: "Wir alle verbringen sehr viel Zeit damit, Artikel, Bücher, Beiträge über Motivation unserer Teams zu lesen. Wir gehen auf Vorträge, Schulungen, Workshops. Doch was ist mit uns Projektmanagern und Agile Coaches? Wer liest für uns die Bücher, wer geht für uns zu Seminaren?"

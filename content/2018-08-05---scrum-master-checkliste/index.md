@@ -1,9 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./scrum-master-checklist.jpg"
 title: Die Checkliste für Scrum Master
 date: "2018-08-05T12:00:00.000Z"
 path: /scrum-master-checkliste
+category: "tippsUndTricks"
 tags: ["scrum"]
 photocredits: "Cathryn Lavery auf Unsplash"
 description: "Diese Checkliste habe ich seit Jahren in Verwendung. Sie ist gewachsen und wird sich auch in Zukunft verändern. Agil eben."

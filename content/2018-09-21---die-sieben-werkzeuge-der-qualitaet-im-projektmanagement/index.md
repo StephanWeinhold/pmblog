@@ -1,10 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./qualitaetsmanagement-projektmanagement.jpg"
 title: "Die sieben Werkzeuge der Qualität im Projektmanagement" 
 date: 2018-09-21T21:00:00.000Z
 path: /die-sieben-werkzeuge-der-qualitaet-im-projektmanagement
-category: ""
+category: "projektmanagement"
 tags: ["projektmanagement", "qualitätsmanagement"]
 photocredits: "NEW DATA SERVICES auf Unsplash"
 description: "Was ich mir von anderen für die Qualitätssicherung in meinen Projekten abschauen kann."
@@ -66,4 +67,3 @@ Auch hier habe ich eine x- und eine y-Achse. Ähnlich wie beim Histogramm befind
 ### Nicht alles alte ist schlecht
 
 Jetzt sind die eingangs erwähnten 75 Jahre in ganz schön lange Zeit. Vor allem, wenn man bedenkt, dass das Projektmanagement als Disziplin erst in den 50er Jahren aufgekommen ist. Und auch unabhängig davon, hat sich seit 1943 sehr viel verändert. Das ist auch der Grund, warum die Q7 mittlerweile im Prozessmanagement, der Qualitätssicherung und der Produktion von moderneren Modellen abgelöst wurden. In diesen Bereichen sind sie für unsere heutigen Ansprüche zu einfach gestrickt. Aber im Projektmanagement, wo das Qualitätsmanagement ein Teilbereich und nicht das große Ganze ist, sind sie gerade wegen ihrer Einfachkeit sehr wichtige Helferleins, die uns viel Kopfschmerzen ersparen können.
-

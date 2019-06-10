@@ -1,9 +1,11 @@
 ---
 layout: post
 draft: false
+cover: "./gescheiterte-kommunikation.jpg"
 title: Warum wir nicht richtig kommunizieren
 date: 2018-08-24T08:00:00.000Z
 path: /warum-wir-nicht-richtig-kommunizieren
+category: "projektmanagement"
 tags: ["kommunikation"]
 photocredits: "Jason Leung und Mimi Thian auf Unsplash"
 description: "Obwohl wir es besser wissen (sollten). Und warum Tacit Knowledge, Osmotic Communication und Active Listening für mich so wichtig sind."

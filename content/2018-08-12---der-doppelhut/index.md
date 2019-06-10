@@ -1,14 +1,19 @@
 ---
 layout: post
 draft: false
+cover: "./projektmanager-huete.jpg"
 title: Der Doppelhut
 date: "2018-08-12T20:41:00.000Z"
 path: /der-doppelhut
+category: "projektmanagement"
 tags: ["projektmanagement", "team"]
+photocredits: "JOSHUA COLEMAN auf Unsplash"
 description: "So ein Leben als Projektmanager ist nicht einfach. Vordergründig mögen wir nur eine Rolle haben, aber wir sind viel mehr als das, was auf dem Türschild vor unserem Büro steht. Nur, wie schaffen wir es, unsere zwei wichtigsten Rollen ordentlich voneinander zu trennen und dies auch zu kommunizieren?"
 ---
 
 So ein Leben als Projektmanager ist nicht einfach. Vordergründig mögen wir nur eine Rolle haben, aber wir sind viel mehr als das, was auf dem Türschild vor unserem Büro steht. Wir sind Planer, _Facilitatoren_, Controller, Händchenhalter, Organisatoren, Mentoren, Moderatoren, Helfer, Impediment-Wegschaufler, Kümmerer, Verantwortliche, Servant Leaders, Menschen und oft auch Freunde.
+
+![Hüte Projektmanager](./projektmanager-huete.jpg)
 
 Von all diesen vielen Hüten, die wir PM aufhaben, stechen zwei ganz besonders hervor: auf dem einen steht "**Projektmanager**", auf dem anderen "**Teammitglied**".  
 Und diese beiden Hüte haben auch ein ganz besonderes Verhältnis zueinander. Denn sie markieren nicht nur unsere wichtigsten Rollen, sie stehen sich auch oft gegenseitig im Weg.
