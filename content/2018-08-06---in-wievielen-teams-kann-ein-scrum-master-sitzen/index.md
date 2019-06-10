@@ -1,7 +1,7 @@
 ---
 layout: post
 draft: false
-cover: "./.jpg"
+cover: "./scrum.jpg"
 title: In wie vielen Teams kann ein Scrum Master sitzen
 date: "2018-08-06T10:00:00.000Z"
 path: /in-wievielen-teams-kann-ein-scrum-master-sitzen
