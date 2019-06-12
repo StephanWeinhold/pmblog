@@ -34,11 +34,11 @@ class NewsletterPage extends Component {
                 </label>
                 <div className="flex items-center mb2">
                   <input className="mr2" type="radio" name="anrede" id="anrede-frau" value="frau" />
-                  <label for="anrede-frau" className="lh-copy">Liebe</label>
+                  <label htmlFor="anrede-frau" className="lh-copy">Liebe</label>
                 </div>
                 <div className="flex items-center mb2">
                   <input className="mr2" type="radio" name="anrede" id="anrede-mann" value="frau" />
-                  <label for="anrede-mann" className="lh-copy">Lieber</label>
+                  <label htmlFor="anrede-mann" className="lh-copy">Lieber</label>
                 </div>
                 <small id="anrede-desc" className="f6 black-60 db mb2">
                   Hier könnt Ihr angeben, welches Wort in der Anrede vor Eurem Namen kommen soll. Falls Ihr denn überhaupt einen Namen angeben wollt.
