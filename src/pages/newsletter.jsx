@@ -65,9 +65,13 @@ class NewsletterPage extends Component {
                 <label htmlFor="email" className="f6 b db mb2">
                   E-Mail Adresse
                 </label>
-                <input type="text" name="email" id="email" 
+                <input 
+                  type="text" 
+                  name="email" 
+                  id="email" 
                   className="input-reset ba b--black-20 pa2 mb2 db w-100"
-                  aria-describedby="email-desc" />
+                  aria-describedby="email-desc" 
+                />
                 <small id="email-desc" className="f6 black-60 db mb2">
                   Bitte gebt mir die E-Mail Adresse bekannt, an die ich den Newsletter schicken darf.
                 </small>
