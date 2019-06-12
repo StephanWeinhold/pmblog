@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import me from '../../../static/stephan-weinhold.png';
+import me from "../../../static/stephan-weinhold.png";
 
 class About extends Component {
   render() {
