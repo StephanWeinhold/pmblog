@@ -11,7 +11,7 @@ class NewsletterPage extends Component {
         <div className="about-container">
           <Helmet title={`Newsletter abonnieren | ${config.siteTitle}`} />
           <SEO />
-          <form id="newsletter-anmeldung" name="newsletter-anmeldung" method="POST" data-netlify="true">
+          <form id="newsletter-anmeldung" name="newsletter-anmeldung" method="POST" data-netlify="true" action="/newsletter-angemeldet">
             <input type="hidden" name="form-name" value="newsletter-anmeldung" />
             <p>
               <label htmlFor="vorname">Vorname</label>
