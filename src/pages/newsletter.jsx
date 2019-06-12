@@ -20,6 +20,7 @@ class NewsletterPage extends Component {
             name="newsletter-anmeldung" 
             method="POST" 
             data-netlify="true" 
+            action="/newsletter-angemeldet" 
             className="black-80">
             <div className="measure">
               <input type="hidden" name="form-name" value="newsletter-anmeldung" />
