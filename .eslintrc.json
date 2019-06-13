@@ -2,7 +2,8 @@
   "extends": ["airbnb", "prettier"],
   "plugins": ["react", "jsx-a11y", "import"],
   "rules": {
-    "label-has-for": "off",
+    "jsx-a11y/label-has-associated-control": "off",
+    "jsx-a11y/label-has-for": "off",
     "no-console": "off",
     "react/prefer-stateless-function": "off",
     "react/prop-types": "off",
