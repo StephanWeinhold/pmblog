@@ -11,7 +11,7 @@ class About extends Component {
           <a href="https://stephanweinhold.com">
             <strong>Stephan Weinhold</strong>
           </a> 
-          {' '}
+          {" "}
           ist ein Projektmanager mit 
           über 15 Jahren Erfahrung im hybriden Projektmanagement, einer Vorliebe für 
           Technologie, und ohne Scheu, anzupacken und Neues auf die Beine zu stellen. 
@@ -30,8 +30,10 @@ class About extends Component {
         </p>
         <h2>Über diesen Blog</h2>
         <p>
-          Der 
+          Der
+          {" "} 
           <strong>Projektmanagementblog</strong> 
+          {" "}
           ist ein Blog über modernes Projektmanagement in all seinen Ausprägungen.
           Klassisch, agil, hybrid. Ich schreibe hier meine Gedanken zu den Entwicklungen, 
           Trends, Problemen und Herausforderungen, denen wir in unserem Arbeitsalltag 
