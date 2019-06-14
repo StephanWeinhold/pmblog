@@ -12,21 +12,23 @@ class NewsletterPage extends Component {
         <div className="about-container">
           <Helmet title={`Newsletter abonnieren | ${config.siteTitle}`} />
           <SEO />
-          <h2>{(mailAddress) ? 'Ein kleiner Schritt noch...' : 'Versäume keinen interessanten, spannenden, liebevoll geschriebenen, weiterbildenden, großartigen Projektmanagementartikel mehr.'}</h2>
-          <p>
-            {(mailAddress) ? 'Wenn Ihr eine persönliche Begrüßung im Newsletter sehen wollt, könnt Ihr mir hier noch Eure bevorzugte Anrede und Euren Vornamen bekannt geben. ' : null}
-            Datenblahblah
-          </p>
-          <h3>Also</h3>
-          <form 
-            id="newsletter-anmeldung" 
-            name="newsletter-anmeldung" 
-            method="POST" 
-            data-netlify="true" 
-            action="/newsletter-angemeldet" 
-            className="black-80"
-          >
-            <div className="measure">
+          <div className="measure lh-copy">
+            <h3>{(mailAddress) ? 'Ein kleiner Schritt noch...' : 'Versäume keinen interessanten, spannenden, liebevoll geschriebenen, weiterbildenden, großartigen Projektmanagementartikel mehr.'}</h3>
+            <p>
+              {(mailAddress) ? 'Wenn Ihr eine persönliche Begrüßung im Newsletter sehen wollt, könnt Ihr mir hier noch Eure bevorzugte Anrede und Euren Vornamen bekannt geben. ' : null}
+              Bei mir gibt es keine Superbestesseminar-Seminare zu buchen, keine E-Books zu gewinnen, und keine Penisvergrößerungspillen zu kaufen. 
+              Ich schicke Euch keine Werbung. 
+              Ihr bekommt nur eine nette Nachricht, wenn und dass ein neuer Artikel auf diesem Blog veröffentlicht wurde.
+            </p>
+            <h3>Also</h3>
+            <form 
+              id="newsletter-anmeldung" 
+              name="newsletter-anmeldung" 
+              method="POST" 
+              data-netlify="true" 
+              action="/newsletter-angemeldet" 
+              className="black-80"
+            >
               <input type="hidden" name="form-name" value="newsletter-anmeldung" />
               <p>
                 <label htmlFor="anrede" className="f6 b db mb2">
@@ -65,7 +67,7 @@ class NewsletterPage extends Component {
               </p>
               <p>
                 <label htmlFor="email" className="f6 b db mb2">
-                  E-Mail Adresse
+                  E-Mailadresse
                 </label>
                 <input 
                   value={(mailAddress) ? mailAddress : null}
@@ -76,14 +78,58 @@ class NewsletterPage extends Component {
                   aria-describedby="email-desc" 
                 />
                 <small id="email-desc" className="f6 black-60 db mb2">
-                  {(mailAddress) ? 'BItte kontrolliert nochmal Eure E-Mail Adresse.' : 'Bitte gebt mir die E-Mail Adresse bekannt, an die ich den Newsletter schicken darf.'}
+                  {(mailAddress) ? 'Bitte kontrolliert nochmal Eure E-Mailadresse.' : 'Bitte gebt mir die E-Mailadresse bekannt, an die ich den Newsletter schicken darf.'}
                 </small>
               </p>
               <p>
                 <button className="f6 link dim ph3 pv2 mb2 ba bw0 dib white bg-dark-blue" type="submit">Anmelden</button>
               </p>
-            </div>
-          </form>
+            </form>
+            <h3>Wie oft kommt denn so ein Newsletter?</h3>
+            <p>
+              Ich bemühe mich sehr, für meine Artikel einen Takt von 14 Tagen einzuhalten. 
+              Also werdet Ihr ca. zwei Newsletter pro Monat erhalten.
+            </p>
+            <h3>Die Technik dahinter</h3>
+            <p>
+              Dieser Blog hier ist statisch. 
+              Das bedeutet, kein Wordpress, kein Mailchimp, nix ähnliches. 
+              Das wiederum bedeutet, ich werde via E-Mail benachrichtigt, wenn Ihr Euch für den Newsletter anmeldet 
+              und speichere Eure E-Mailadresse und gegebenenfalls Euren Vornamen auf meinem Rechner in Salzburg, Österreich. 
+              Klingt umständlich? 
+              Ja, aber ich will mit Euren Daten kein Geld verdienen. 
+              Also wähle ich einen Weg, bei dem wir alle ohne DSGVO-Trickserei auskommen.
+            </p>
+            <p>
+              Ich verwende 
+              {" "}
+              <a href="https://www.mailgun.com/" target="_blank" rel="noopener noreferrer">Mailgun</a>
+              , um meinen Newsletter zu verschicken. 
+              Und zwar die in der EU gehostete Variante. 
+              Sprich, kein US-Server. 
+              Ich lade dort vor dem Versand Eure E-Mailadresse und gegebenenfalls Euren Vornamen hoch. 
+              Fünf Tage nach Versand werden diese und weitere Informationen zum Versand und zur Analyse der Newsletter gelöscht.
+            </p>
+            <h3>Double-Opt-In und Opt-Out</h3>
+            <p>
+              Ihr erhaltet eine sogenannte Double-Opt-In E-Mail, in der Ihr um Bestätigung der Anmeldung gebeten werdet. 
+              Ihr könnt dem Empfang der Newsletter jederzeit widersprechen (Opt-Out). 
+              Einen Abmeldelink findet Ihr in jedem Newsletter oder in der Double-Opt-In E-Mail.
+            </p>
+            <h3>Statistiken und Erfolgsmessung</h3>
+            <p>
+              Um den Newsletter für Euch optimieren zu können, willigt Ihr in meine Auswertung ein, 
+              mit der ich messe, wie häufig der Newsletter geöffnet wird und auf welche Links Ihr klickt.
+            </p>
+            <h3>Mehr zum Datenschutz</h3>
+            <p>
+              Ausführliche Informationen zum Versandverfahren und den Statistiken, 
+              sowie zu Euren Widerrufsmöglichkeiten erhaltet Ihr in meiner 
+              {" "}
+              <a href="/offenlegung-datenschutz" target="_blank" rel="noopener noreferrer">Datenschutzerklärung</a>
+              .
+            </p>
+          </div>
         </div>
       </Layout>
     );
