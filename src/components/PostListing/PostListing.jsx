@@ -39,7 +39,7 @@ class PostListing extends React.Component {
               {post.description}
             </p>
             <p>
-              <Link to={post.path} className="link pv1 ph2 underline-hover bg-dark-blue white">Weiterlesen</Link>
+              <Link to={post.path} className="link pv1 ph2 underline-hover bg-dark-blue white">Artikel lesen</Link>
             </p>
           </article>
         ))}
