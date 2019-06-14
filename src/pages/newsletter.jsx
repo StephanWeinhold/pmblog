@@ -6,6 +6,7 @@ import config from "../../data/SiteConfig";
 
 class NewsletterPage extends Component {
   render() {
+    console.log(this.props.location.search)
     return (
       <Layout>
         <div className="about-container">
