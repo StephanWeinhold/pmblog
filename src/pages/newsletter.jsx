@@ -14,7 +14,7 @@ class NewsletterPage extends Component {
           <SEO />
           <h2>{(mailAddress) ? 'Ein kleiner Schritt noch...' : 'Versäume keinen interessanten, spannenden, liebevoll geschriebenen, weiterbildenden, großartigen Projektmanagementartikel mehr.'}</h2>
           <p>
-            {(mailAddress) ? 'Wenn Ihr eine persönliche Anrede bevorzugt, könnt Ihr mir hier noch Eure Ansprache und Euren Vornamen bekannt geben. ' : null}
+            {(mailAddress) ? 'Wenn Ihr eine persönliche Begrüßung im Newsletter sehen wollt, könnt Ihr mir hier noch Eure bevorzugte Anrede und Euren Vornamen bekannt geben. ' : null}
             Datenblahblah
           </p>
           <h3>Also</h3>
