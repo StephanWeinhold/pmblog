@@ -15,7 +15,7 @@ class PostListing extends React.Component {
         category: postEdge.node.frontmatter.category,
         title: postEdge.node.frontmatter.title,
         date: postEdge.node.fields.date,
-        excerpt: postEdge.node.excerpt,
+        description: postEdge.node.frontmatter.description,
         timeToRead: postEdge.node.timeToRead
       });
     });
@@ -36,7 +36,7 @@ class PostListing extends React.Component {
               <PostTags tags={post.tags} />
             </nav>               
             <p className="mv4">
-              {post.excerpt}
+              {post.description}
             </p>
             <p>
               <Link to={post.path} className="link pv1 ph2 underline-hover bg-dark-blue white">Weiterlesen</Link>
