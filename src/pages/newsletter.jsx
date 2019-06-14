@@ -6,7 +6,7 @@ import config from "../../data/SiteConfig";
 
 class NewsletterPage extends Component {
   render() {
-    const mailAddress = this.props.location.search.substring(3);
+    const mailAddress = decodeURIComponent(this.props.location.search.substring(3));
     return (
       <Layout>
         <div className="about-container">

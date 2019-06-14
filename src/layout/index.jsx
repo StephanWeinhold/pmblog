@@ -65,8 +65,7 @@ export default class MainLayout extends React.Component {
             <form 
               id="newsletter-anmeldung-footer" 
               name="newsletter-anmeldung-footer" 
-              method="POST" 
-              data-netlify="true" 
+              method="GET" 
               action="/newsletter" 
               className="black-90"
             >
@@ -75,8 +74,7 @@ export default class MainLayout extends React.Component {
                   Du willst keinen Artikel mehr verpassen? Hier kannst Du Dich für meinen Newsletter anmelden.
                 </span>
               </p>
-              <input type="hidden" name="form-name" value="newsletter-anmeldung-footer" />
-              <input placeholder="E-Mail Adresse" className="mw-100 w-100 w5-ns f5 input-reset ba b--black-20 pv3 ph4 border-box" />
+              <input name="m" id="email-footer" placeholder="E-Mail Adresse" className="mw-100 w-100 w5-ns f5 input-reset ba b--black-20 pv3 ph4 border-box" />
               <input type="submit" className="input-reset w-100 w-auto-ns bg-black-80 white f5 pv2 pv3-ns ph4 ba b--black-80 bg-hover-mid-gray" />
             </form>
           </div>
