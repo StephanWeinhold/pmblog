@@ -6,14 +6,15 @@ import config from "../../data/SiteConfig";
 
 class NewsletterPage extends Component {
   render() {
-    console.log(this.props.location.search)
+    const mailAddress = this.props.location.search.substring(3);
     return (
       <Layout>
         <div className="about-container">
           <Helmet title={`Newsletter abonnieren | ${config.siteTitle}`} />
           <SEO />
-          <h2>Versäume keinen interessanten, spannende, liebevollen, weiterbildenden, großartigen Projektmanagementartikel mehr.</h2>
+          <h2>{(mailAddress) ? 'Ein kleiner Schritt noch...' : 'Versäume keinen interessanten, spannenden, liebevoll geschriebenen, weiterbildenden, großartigen Projektmanagementartikel mehr.'}</h2>
           <p>
+            {(mailAddress) ? 'Wenn Ihr eine persönliche Anrede bevorzugt, könnt Ihr mir hier noch Eure Ansprache und Euren Vornamen bekannt geben. ' : null}
             Datenblahblah
           </p>
           <h3>Also</h3>
@@ -67,6 +68,7 @@ class NewsletterPage extends Component {
                   E-Mail Adresse
                 </label>
                 <input 
+                  value={(mailAddress) ? mailAddress : null}
                   type="text" 
                   name="email" 
                   id="email" 
@@ -74,7 +76,7 @@ class NewsletterPage extends Component {
                   aria-describedby="email-desc" 
                 />
                 <small id="email-desc" className="f6 black-60 db mb2">
-                  Bitte gebt mir die E-Mail Adresse bekannt, an die ich den Newsletter schicken darf.
+                  {(mailAddress) ? 'BItte kontrolliert nochmal Eure E-Mail Adresse.' : 'Bitte gebt mir die E-Mail Adresse bekannt, an die ich den Newsletter schicken darf.'}
                 </small>
               </p>
               <p>
