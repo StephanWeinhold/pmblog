@@ -1,0 +1,15 @@
+{
+  "bitwise": true,
+  "curly": true,
+  "eqeqeq": true,
+  "forin": true,
+  "freeze": true,
+  "latedef": true,
+  "leanswitch": true,
+  "maxcomplexity": 5,
+  "maxdepth": 3,
+  "noarg": true,
+  "trailingcomma": true,
+  "undef": true,
+  "unused": true,
+}
