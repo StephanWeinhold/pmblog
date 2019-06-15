@@ -16,7 +16,7 @@ class NewsletterPage extends Component {
             <h3>{(mailAddress) ? 'Ein kleiner Schritt noch...' : 'Versäume keinen interessanten, spannenden, liebevoll geschriebenen, weiterbildenden, großartigen Projektmanagementartikel mehr.'}</h3>
             <p>
               {(mailAddress) ? 'Wenn Ihr eine persönliche Begrüßung im Newsletter sehen wollt, könnt Ihr mir hier noch Eure bevorzugte Anrede und Euren Vornamen bekannt geben. ' : null}
-              Bei mir gibt es keine Superbestesseminar-Seminare zu buchen, keine E-Books zu gewinnen, und keine Penisvergrößerungspillen zu kaufen. 
+              Bei mir gibt es keine Superdupiseminare zu buchen, keine E-Books zu gewinnen, und keine Penisvergrößerungspillen zu kaufen. 
               Ich schicke Euch keine Werbung. 
               Ihr bekommt nur eine nette Nachricht, wenn und dass ein neuer Artikel auf diesem Blog veröffentlicht wurde.
             </p>
@@ -92,23 +92,13 @@ class NewsletterPage extends Component {
             </p>
             <h3>Die Technik dahinter</h3>
             <p>
-              Dieser Blog hier ist statisch. 
-              Das bedeutet, kein Wordpress, kein Mailchimp, nix ähnliches. 
-              Das wiederum bedeutet, ich werde via E-Mail benachrichtigt, wenn Ihr Euch für den Newsletter anmeldet 
-              und speichere Eure E-Mailadresse und gegebenenfalls Euren Vornamen auf meinem Rechner in Salzburg, Österreich. 
-              Klingt umständlich? 
-              Ja, aber ich will mit Euren Daten kein Geld verdienen. 
-              Also wähle ich einen Weg, bei dem wir alle ohne DSGVO-Trickserei auskommen.
-            </p>
-            <p>
               Ich verwende 
               {" "}
               <a href="https://www.mailgun.com/" target="_blank" rel="noopener noreferrer">Mailgun</a>
               , um meinen Newsletter zu verschicken. 
               Und zwar die in der EU gehostete Variante. 
               Sprich, kein US-Server. 
-              Ich lade dort vor dem Versand Eure E-Mailadresse und gegebenenfalls Euren Vornamen hoch. 
-              Fünf Tage nach Versand werden diese und weitere Informationen zum Versand und zur Analyse der Newsletter gelöscht.
+              Ich speichere dort Eure E-Mailadresse und gegebenenfalls Euren Vornamen.
             </p>
             <h3>Double-Opt-In und Opt-Out</h3>
             <p>
@@ -119,7 +109,7 @@ class NewsletterPage extends Component {
             <h3>Statistiken und Erfolgsmessung</h3>
             <p>
               Um den Newsletter für Euch optimieren zu können, willigt Ihr in meine Auswertung ein, 
-              mit der ich messe, wie häufig der Newsletter geöffnet wird und auf welche Links Ihr klickt.
+              mit der ich messe, wie häufig der Newsletter geöffnet wird und auf welche Links geklickt werden.
             </p>
             <h3>Mehr zum Datenschutz</h3>
             <p>
