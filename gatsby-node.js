@@ -3,6 +3,15 @@ const _ = require("lodash");
 const moment = require("moment");
 const siteConfig = require("./data/SiteConfig");
 
+var replaceUmlauts = function(stringWithUmlauts) {
+  stringWithUmlauts = stringWithUmlauts.replace('ä', 'ae');
+  stringWithUmlauts = stringWithUmlauts.replace('ö', 'oe');
+  stringWithUmlauts = stringWithUmlauts.replace('ü', 'ue');
+  stringWithUmlauts = stringWithUmlauts.replace('ß', 'ss');
+  
+  return stringWithUmlauts;
+}
+
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
   let slug;
@@ -13,7 +22,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       Object.prototype.hasOwnProperty.call(node, "frontmatter") &&
       Object.prototype.hasOwnProperty.call(node.frontmatter, "title")
     ) {
-      slug = `/${_.kebabCase(node.frontmatter.title)}`;
+      slug = `/${_.kebabCase(replaceUmlauts(node.frontmatter.title))}`;
     } else if (parsedFilePath.name !== "index" && parsedFilePath.dir !== "") {
       slug = `/${parsedFilePath.dir}/${parsedFilePath.name}/`;
     } else if (parsedFilePath.dir === "") {
