@@ -19,7 +19,18 @@ class CategoryListing extends React.Component {
     return (
       <div>
         <h1>Alle Kategorien</h1>
-        <p>Hier findet Ihr eine Liste aller Projektmanagement-Kategorien, in die meine Artikel gegliedert sind.</p>
+        <p>
+          Hier findet Ihr eine Liste aller Projektmanagement-Kategorien, in die 
+          meine Artikel gegliedert sind. Zu den Themen 
+          {" "}
+          <Link 
+            to={`/themen`}
+            className="link underline-hover green"
+          >
+            geht es übrigens hier
+          </Link>
+          .
+        </p>
         <ul className="list pl0">
           {
           categoryList.map(category => (

@@ -19,7 +19,18 @@ class TagListing extends React.Component {
     return (
       <div>
         <h1>Alle Themen</h1>
-        <p>Hier findet Ihr eine Liste aller Projektmanagement-Themen, über die ich hier Artikel verfasst habe.</p>
+        <p>
+          Hier findet Ihr eine Liste aller Projektmanagement-Themen, über die ich 
+          hier Artikel verfasst habe. Zu den Kategorien 
+          {" "}
+          <Link 
+            to={`/kategorien`}
+            className="link underline-hover gold"
+          >
+            geht es übrigens hier
+          </Link>
+          .
+        </p>
         <ul className="list pl0">
           {
           tagList.map(tag => (

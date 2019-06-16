@@ -19,6 +19,17 @@ export default class TagTemplate extends React.Component {
             {tag}
             &quot;
           </h1>
+          <p>
+            Eine Übersicht zu allen Themen
+            {" "}
+            <Link 
+              to={`/themen`}
+              className="link underline-hover gold"
+            >
+              findet Ihr hier
+            </Link>
+            .
+          </p>
           <PostListing postEdges={postEdges} />
         </div>
       </Layout>
