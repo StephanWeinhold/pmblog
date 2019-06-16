@@ -1,6 +1,7 @@
 import React from "react";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
+import { Link } from "gatsby";
 import Layout from "../layout";
 import PostListing from "../components/PostListing/PostListing";
 import config from "../../data/SiteConfig";
@@ -19,6 +20,17 @@ export default class CategoryTemplate extends React.Component {
             {category}
             &quot;
           </h1>
+          <p>
+            Eine Übersicht zu allen Kategorien
+            {" "}
+            <Link 
+              to={`/kategorien`}
+              className="link underline-hover gold"
+            >
+              findet Ihr hier
+            </Link>
+            .
+          </p>
           <PostListing postEdges={postEdges} />
         </div>
       </Layout>
