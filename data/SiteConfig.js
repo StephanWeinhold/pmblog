@@ -2,7 +2,7 @@ const config = {
   siteTitle: "Projektmanagementblog", // Site title.
   siteTitleShort: "Projektmanagementblog", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Projektmanagementblog. Klassisch, agil, hybrid.", // Alternative site title for SEO.
-  siteLogo: "/favicon.png", // Logo used for SEO and manifest.
+  siteLogo: "/logos/favicon.png", // Logo used for SEO and manifest.
   siteUrl: "https://projektmanagementblog.de", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Gedanken über Projektmanagement. Klassisch, agil, hybrid.", // Website description used for RSS feeds/meta description tag.
