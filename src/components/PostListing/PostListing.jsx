@@ -7,7 +7,8 @@ import moment from "moment";
 class PostListing extends React.Component {
   getPostList() {
     const postList = [];
-    this.props.postEdges.forEach(postEdge => {
+    const { postEdges } = this.props;
+    postEdges.forEach(postEdge => {
       postList.push({
         id: postEdge.node.id,
         path: postEdge.node.fields.slug,

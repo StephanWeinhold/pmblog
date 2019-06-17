@@ -6,7 +6,8 @@ import { replaceUmlauts } from "../../helpers.js";
 class CategoryListing extends React.Component {
   getCategoryList() {
     const categoryList = [];
-    this.props.categoryEdges.forEach(categoryEdge => {
+    const { categoryEdges } = this.props;
+    categoryEdges.forEach(categoryEdge => {
       categoryList.push({
         fieldValue: categoryEdge.fieldValue,
         totalCount: categoryEdge.totalCount,

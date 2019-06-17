@@ -6,7 +6,8 @@ import { replaceUmlauts } from "../../helpers.js";
 class TagListing extends React.Component {
   getTagList() {
     const tagList = [];
-    this.props.tagEdges.forEach(tagEdge => {
+    const { tagEdges } = this.props;
+    tagEdges.forEach(tagEdge => {
       tagList.push({
         fieldValue: tagEdge.fieldValue,
         totalCount: tagEdge.totalCount,
