@@ -12,6 +12,7 @@ export default class MainLayout extends React.Component {
           <title>{config.siteTitle}</title>
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <meta name="description" content={config.siteDescription} />
+          <link rel="icon" href="../../static/logos/favicon.png" />
           <link rel="stylesheet" href="/tachyons.min.css" />
         </Helmet>
         
