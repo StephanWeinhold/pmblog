@@ -8,7 +8,8 @@ import config from "../../data/SiteConfig";
 
 class Themen extends React.Component {
   render() {
-    const categoryEdges = this.props.data.allMarkdownRemark.group;
+    const { data } = this.props;
+    const categoryEdges = data.allMarkdownRemark.group;
     return (
       <Layout>
         <div className="index-container">
