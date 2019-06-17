@@ -33,7 +33,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 
     if (Object.prototype.hasOwnProperty.call(node, "frontmatter")) {
       if (Object.prototype.hasOwnProperty.call(node.frontmatter, "slug"))
-        slug = `/${_.kebabCase(node.frontmatter.slug)}`;
+        slug = `/${_.kebabCase(replaceUmlauts(node.frontmatter.slug))}`;
       if (Object.prototype.hasOwnProperty.call(node.frontmatter, "date")) {
         const date = moment(node.frontmatter.date, siteConfig.dateFromFormat);
         if (!date.isValid)
@@ -136,7 +136,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
   tagSet.forEach(tag => {
     createPage({
-      path: `/themen/${_.kebabCase(tag)}/`,
+      path: `/themen/${_.kebabCase(replaceUmlauts(tag))}/`,
       component: tagPage,
       context: {
         tag
@@ -145,7 +145,7 @@ exports.createPages = async ({ graphql, actions }) => {
   });
   categorySet.forEach(category => {
     createPage({
-      path: `/kategorien/${_.kebabCase(category)}/`,
+      path: `/kategorien/${_.kebabCase(replaceUmlauts(category))}/`,
       component: categoryPage,
       context: {
         category

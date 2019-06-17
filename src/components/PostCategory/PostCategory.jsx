@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import _ from "lodash";
 import { Link } from "gatsby";
+import { replaceUmlauts } from "../../helpers.js";
 
 class PostCategory extends Component {
   render() {
@@ -11,7 +12,7 @@ class PostCategory extends Component {
         <Link
           key={category}
           className="category link mr2 pv1 ph2 underline-hover bg-gold white"
-          to={`/kategorien/${_.kebabCase(category)}`}
+          to={`/kategorien/${_.kebabCase(replaceUmlauts(category))}`}
         >
           {category}
         </Link>

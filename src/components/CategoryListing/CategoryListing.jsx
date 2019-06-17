@@ -1,6 +1,7 @@
 import React from "react";
 import _ from "lodash";
 import { Link } from "gatsby";
+import { replaceUmlauts } from "../../helpers.js";
 
 class CategoryListing extends React.Component {
   getCategoryList() {
@@ -36,7 +37,7 @@ class CategoryListing extends React.Component {
           categoryList.map(category => (
             <li key={category.fieldValue} className="mb3">
               <Link 
-                to={`/kategorien/${_.kebabCase(category.fieldValue)}`}
+                to={`/kategorien/${_.kebabCase(replaceUmlauts(category.fieldValue))}`}
                 className="category link mr2 pv1 ph2 underline-hover bg-gold white"
               >
                 {category.fieldValue} 

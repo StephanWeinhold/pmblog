@@ -1,6 +1,7 @@
 import React from "react";
 import _ from "lodash";
 import { Link } from "gatsby";
+import { replaceUmlauts } from "../../helpers.js";
 
 class TagListing extends React.Component {
   getTagList() {
@@ -36,7 +37,7 @@ class TagListing extends React.Component {
           tagList.map(tag => (
             <li key={tag.fieldValue} className="mb3">
               <Link 
-                to={`/themen/${_.kebabCase(tag.fieldValue)}`}
+                to={`/themen/${_.kebabCase(replaceUmlauts(tag.fieldValue))}`}
                 className="tag link mr2 pv1 ph2 underline-hover bg-green white"
               >
                 {tag.fieldValue} 

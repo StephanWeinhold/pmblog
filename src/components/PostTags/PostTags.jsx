@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import _ from "lodash";
 import { Link } from "gatsby";
+import { replaceUmlauts } from "../../helpers.js";
 
 class PostTags extends Component {
   render() {
@@ -12,7 +13,7 @@ class PostTags extends Component {
             <Link
               key={tag}
               className="tag link mr2 pv1 ph2 underline-hover bg-green white"
-              to={`/themen/${_.kebabCase(tag)}`}
+              to={`/themen/${_.kebabCase(replaceUmlauts(tag))}`}
             >
               {tag}
             </Link>
