@@ -25,7 +25,7 @@ class CategoryListing extends React.Component {
           meine Artikel gegliedert sind. Zu den Themen 
           {" "}
           <Link 
-            to={`/themen`}
+            to="/themen"
             className="link underline-hover green"
           >
             geht es übrigens hier

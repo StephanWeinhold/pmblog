@@ -24,7 +24,7 @@ export default class TagTemplate extends React.Component {
             Eine Übersicht zu allen Themen
             {" "}
             <Link 
-              to={`/themen`}
+              to="/themen"
               className="link underline-hover green"
             >
               findet Ihr hier

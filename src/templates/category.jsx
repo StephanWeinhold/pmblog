@@ -24,7 +24,7 @@ export default class CategoryTemplate extends React.Component {
             Eine Übersicht zu allen Kategorien
             {" "}
             <Link 
-              to={`/kategorien`}
+              to="/kategorien"
               className="link underline-hover gold"
             >
               findet Ihr hier

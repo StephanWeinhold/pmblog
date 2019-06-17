@@ -25,7 +25,7 @@ class TagListing extends React.Component {
           hier Artikel verfasst habe. Zu den Kategorien 
           {" "}
           <Link 
-            to={`/kategorien`}
+            to="/kategorien"
             className="link underline-hover gold"
           >
             geht es übrigens hier
