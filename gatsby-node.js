@@ -4,12 +4,9 @@ const moment = require("moment");
 const siteConfig = require("./data/SiteConfig");
 
 var replaceUmlauts = function(stringWithUmlauts) {
-  stringWithUmlauts = stringWithUmlauts.replace('ä', 'ae');
-  stringWithUmlauts = stringWithUmlauts.replace('ö', 'oe');
-  stringWithUmlauts = stringWithUmlauts.replace('ü', 'ue');
-  stringWithUmlauts = stringWithUmlauts.replace('ß', 'ss');
+  let stringWithoutUmlauts = stringWithUmlauts.replace('ä', 'ae').replace('ö', 'oe').replace('ü', 'ue').replace('ß', 'ss');
   
-  return stringWithUmlauts;
+  return stringWithoutUmlauts;
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
