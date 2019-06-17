@@ -3,7 +3,6 @@ import { Link } from "gatsby";
 import PostTags from "../PostTags/PostTags";
 import PostCategory from "../PostCategory/PostCategory";
 import moment from "moment";
-import { replaceUmlauts } from "../../helpers.js";
 
 class PostListing extends React.Component {
   getPostList() {
