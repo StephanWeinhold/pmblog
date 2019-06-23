@@ -5,7 +5,7 @@ import config from "../../../data/SiteConfig";
 class ShareButton extends Component {
   componentDidMount() {
     if (navigator.share) {
-      document.getElementById('share-button').setAttribute("style", "display: block;");
+      document.getElementById('share-container').classList.remove('dn');
       this.nv.addEventListener("click", this.handleClick);
     }
   }
@@ -30,7 +30,7 @@ class ShareButton extends Component {
   
   render() {
     return (
-      <div ref={elem => this.nv = elem} className="mt3">
+      <div id="share-container" ref={elem => this.nv = elem} className="dn mt4">
         <button 
           id="share-button" 
           name="share" 
