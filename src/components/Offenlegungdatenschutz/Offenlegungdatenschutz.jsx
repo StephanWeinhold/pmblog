@@ -51,7 +51,7 @@ class Offenlegungdatenschutz extends Component {
           Wenn Ihr (Stand Juni 2019) mit Chrome Android, Safari, oder Safari iOS 
           meine Artieklseiten besucht, habt Ihr die Möglichkeit, via WebShare API 
           die Seite zu teilen. Klingt kompliziert, ist aber ganz einfach. Wenn Ihr 
-          auf "Diesen Artikel teilen" klickt, wird das Teilen-Menü Eures Gerätes 
+          auf &quot;Diesen Artikel teilen&quot; klickt, wird das Teilen-Menü Eures Gerätes 
           geöffnet.
           Ansonsten habe ich ganz bewusst keine Social Sharing-Buttons eingebunden. 
           Natürlich freue ich mir sehr, wenn Ihr meine Beiträge teilt! 
