@@ -5,6 +5,7 @@ import Layout from "../layout";
 import PostTags from "../components/PostTags/PostTags";
 import PostCategory from "../components/PostCategory/PostCategory";
 import SEO from "../components/SEO/SEO";
+import ShareButton from "../components/ShareButton/ShareButton";
 import config from "../../data/SiteConfig";
 
 export default class PostTemplate extends React.Component {
@@ -33,6 +34,7 @@ export default class PostTemplate extends React.Component {
               <PostCategory category={post.category} />
               <PostTags tags={post.tags} />
             </div>
+            <ShareButton />
             <div className="cf ph2-ns">
               <div className="fl w-100 w-50-ns pa2">
                 <a className="link db" href={pageContext.prevslug}>
