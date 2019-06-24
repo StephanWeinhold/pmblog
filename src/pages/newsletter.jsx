@@ -71,7 +71,7 @@ class NewsletterPage extends Component {
                   E-Mailadresse
                 </label>
                 <input 
-                  value={mailAddress}
+                  value={(mailAddress) ? mailAddress : null}
                   type="text" 
                   name="email" 
                   id="email" 
