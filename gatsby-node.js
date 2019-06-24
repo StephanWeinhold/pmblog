@@ -2,12 +2,7 @@ const path = require("path");
 const _ = require("lodash");
 const moment = require("moment");
 const siteConfig = require("./data/SiteConfig");
-
-var replaceUmlauts = function(stringWithUmlauts) {
-  let stringWithoutUmlauts = stringWithUmlauts.replace('ä', 'ae').replace('ö', 'oe').replace('ü', 'ue').replace('ß', 'ss');
-  
-  return stringWithoutUmlauts;
-}
+import { replaceUmlauts } from "src/helpers.js";
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
