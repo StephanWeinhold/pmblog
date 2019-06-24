@@ -33,7 +33,7 @@ class CategoryListing extends React.Component {
           </Link>
           .
         </p>
-        <ul className="list pl0">
+        <ul className="list pl0 mt4">
           {
           categoryList.map(category => (
             <li key={category.fieldValue} className="mb3">
