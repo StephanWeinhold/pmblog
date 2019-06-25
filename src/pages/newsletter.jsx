@@ -42,7 +42,7 @@ class NewsletterPage extends Component {
                   <label htmlFor="anrede-frau" className="lh-copy">Liebe</label>
                 </div>
                 <div className="flex items-center mb2">
-                  <input className="mr2" type="radio" name="anrede" id="anrede-mann" value="frau" />
+                  <input className="mr2" type="radio" name="anrede" id="anrede-mann" value="mann" />
                   <label htmlFor="anrede-mann" className="lh-copy">Lieber</label>
                 </div>
                 <small id="anrede-desc" className="f6 black-60 db mb2">
