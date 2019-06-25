@@ -12,10 +12,15 @@ class NewsletterAngemeldetPage extends Component {
           <Helmet title={`Newsletter abonniert | ${config.siteTitle}`} />
           <SEO />
           <h2>
-          Vielen Dank!
+            Vielen Dank!
           </h2>
           <p>
-          Bestätigungsmail, etc.
+            Ihr kennt das Prozedere: Ihr erhaltet demnächst von mir ein E-Mail, 
+            in dem Ihr die Anmeldung zum Newsletter bitte nocheinmal bestätigt. 
+            Damit kann Euch keiner ohne Euren Willen hier eintragen.
+          </p>
+          <p>
+            Ich freue mich übrigens auch sehr über Rückmeldungen! Also bis bald!
           </p>
         </div>
       </Layout>
