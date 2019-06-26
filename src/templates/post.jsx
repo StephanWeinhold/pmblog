@@ -31,8 +31,10 @@ export default class PostTemplate extends React.Component {
             <h1>{post.title}</h1>
             <div className="lh-copy measure-wide" dangerouslySetInnerHTML={{ __html: postNode.html }} />
             <div className="post-meta">
-              <PostCategory category={post.category} />
-              <PostTags tags={post.tags} />
+              <div className="nowrap overflow-x-auto pv1">
+                <PostCategory category={post.category} />
+                <PostTags tags={post.tags} />
+              </div>
             </div>
             <ShareButton />
             <div className="cf ph2-ns">
