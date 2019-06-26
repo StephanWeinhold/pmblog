@@ -6,7 +6,7 @@ title: "Kompetenzmatrix - der wertvolle Helfer in meiner Teamplanung"
 date: 2018-11-30T10:00:00.000Z
 path: /kompetenzenmatrix-der-wertvolle-helfer-in-meiner-teamplanung
 category: "projektmanagement"
-tags: ["projektmanagement", "team", "measurement"]
+tags: ["team", "measurement"]
 photocredits: "Stephan Weinhold"
 description: "Wie ich notwendige Skills für mein Projekt erfasse und etwaige Defizite in meinem Projektteam sichtbar mache."
 ---

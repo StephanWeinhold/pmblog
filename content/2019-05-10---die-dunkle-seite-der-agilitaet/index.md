@@ -6,7 +6,7 @@ title: "Die dunkle Seite der Agilität"
 date: 2019-05-10T11:00:00.000Z
 path: /die-dunkle-seite-der-agilitaet
 category: "philosophie"
-tags: ["projektmanagement", "agilität"]
+tags: ["agilität"]
 photocredits: "Elisabeth Pieringer und Vlad Tchompalov auf Unsplash"
 description: "Was Agilität für mich mit (viel) Effizienz und (oft wenig) Kundenwert zu tun hat und warum Kekse nicht immer gut sind."
 ---

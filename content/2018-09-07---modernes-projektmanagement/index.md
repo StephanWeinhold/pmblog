@@ -6,7 +6,7 @@ title: Modernes Projektmanagement - der methodische Teil
 date: 2018-09-07T10:00:00.000Z
 path: /modernes-projektmanagement
 category: "projektmanagement"
-tags: ["projektmanagement"]
+tags: ["methodik"]
 photocredits: "Stephan Weinhold"
 description: "Was ist modernes Projektmanagement für mich? Von welchen Methoden schreibe ich da eigentlich die ganze Zeit? Eine kurze Zusammenfassung."
 ---

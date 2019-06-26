@@ -6,7 +6,7 @@ title: Der Doppelhut
 date: "2018-08-12T20:41:00.000Z"
 path: /der-doppelhut
 category: "projektmanagement"
-tags: ["projektmanagement", "team"]
+tags: ["team"]
 photocredits: "JOSHUA COLEMAN auf Unsplash"
 description: "So ein Leben als Projektmanager ist nicht einfach. Vordergründig mögen wir nur eine Rolle haben, aber wir sind viel mehr als das, was auf dem Türschild vor unserem Büro steht. Nur, wie schaffen wir es, unsere zwei wichtigsten Rollen ordentlich voneinander zu trennen und dies auch zu kommunizieren?"
 ---

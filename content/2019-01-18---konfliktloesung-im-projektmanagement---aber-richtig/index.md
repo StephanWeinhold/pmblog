@@ -6,7 +6,7 @@ title: "Konfliktlösung im Projektmanagement - aber richtig"
 date: 2019-01-18T08:00:00.000Z
 path: /konfliktloesung-im-projektmanagement-aber-richtig
 category: "projektmanagement"
-tags: ["projektmanagement", "krise"]
+tags: ["krise"]
 photocredits: "Chris Sabor auf Unsplash"
 description: "Wie ich Konflikte innerhalb eines Team erkenne und zukunftssicher löse."
 ---

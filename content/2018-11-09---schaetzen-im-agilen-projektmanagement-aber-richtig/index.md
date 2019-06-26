@@ -5,8 +5,8 @@ cover: "./projektmanagement-schaetzen.jpg"
 title: "Schätzen im agilen Projektmanagement, aber richtig" 
 date: 2018-11-09T18:00:00.000Z
 path: /schaetzen-im-agilen-projektmanagement-aber-richtig
-category: "agile"
-tags: ["team", "scrum", "agilität"]
+category: "agilität"
+tags: ["team", "scrum"]
 photocredits: "Jon Tyson auf Unsplash, Stephan Weinhold"
 description: "Eine Evolution des Schätzens. Von klassisch über agil und wieder zurück."
 ---

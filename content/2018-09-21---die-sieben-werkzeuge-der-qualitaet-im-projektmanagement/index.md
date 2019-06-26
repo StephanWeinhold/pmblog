@@ -6,7 +6,7 @@ title: "Die sieben Werkzeuge der Qualität im Projektmanagement"
 date: 2018-09-21T21:00:00.000Z
 path: /die-sieben-werkzeuge-der-qualitaet-im-projektmanagement
 category: "projektmanagement"
-tags: ["projektmanagement", "qualitätsmanagement"]
+tags: ["qualitätsmanagement"]
 photocredits: "NEW DATA SERVICES auf Unsplash"
 description: "Was ich mir von anderen für die Qualitätssicherung in meinen Projekten abschauen kann."
 ---

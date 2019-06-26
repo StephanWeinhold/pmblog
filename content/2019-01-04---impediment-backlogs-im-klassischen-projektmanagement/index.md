@@ -6,7 +6,7 @@ title: "Impediment Backlogs im klassischen Projektmanagement"
 date: 2019-01-04T08:00:00.000Z
 path: /impediment-backlogs-im-klassischen-projektmanagement
 category: "projektmanagement"
-tags: ["projektmanagement", "scrum", "riskmanagement"]
+tags: ["scrum", "riskmanagement"]
 photocredits: "Hans-Peter Gauster und Cristofer Jeschke auf Unsplash"
 description: "Wie wir einen Impediment Backlog auch im klassischen Projektmanagement so einsetzen können, dass wir unsere Issues in den Griff bekommen."
 ---

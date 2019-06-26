@@ -5,7 +5,7 @@ cover: "./scrum-master-dreieck-positiv.jpg"
 title: "Das doppelte Trilemma der Scrum Master" 
 date: 2018-10-26T14:30:00.000Z
 path: /das-doppelte-trilemma-der-scrum-master
-category: "agile"
+category: "agilität"
 tags: ["scrum"]
 photocredits: "Ionut Necula auf Unsplash, Stephan Weinhold"
 description: "Auch Scrum Master haben ihr Dreieck. Sogar ein ganz besonderes. Und warum das auch alle Agile Coaches, Lean Senseis, und wie auch immer Ihr Euch nennt, betrifft."

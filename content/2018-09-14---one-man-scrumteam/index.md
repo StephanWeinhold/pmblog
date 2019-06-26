@@ -5,7 +5,7 @@ cover: "./fleissige-bienen-scrum-kleines-team.jpg"
 title: One-man-scrumteam
 date: 2018-09-14T20:00:00.000Z
 path: /one-man-scrumteam
-category: "agile"
+category: "agilität"
 tags: ["scrum"]
 photocredits: "Jonathan Farber und Jack B auf Unsplash"
 description: "Scrum in kleinen Teams und ein ketzerisches Gedankenexperiment"

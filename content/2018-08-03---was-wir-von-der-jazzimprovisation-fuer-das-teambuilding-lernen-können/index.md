@@ -6,7 +6,7 @@ title: Was wir von der Jazzimprovisation für das Teambuilding lernen können
 date: "2018-08-03T16:00:00.000Z"
 path: /was-wir-von-der-jazzimprovisation-fuer-das-teambuilding-lernen-können
 category: "philosophie"
-tags: ["projektmanagement", "team"]
+tags: ["team"]
 photocredits: "Gabriel Gurrola und Alessio MumboJumbo auf Unsplash"
 description: "Und was gute Teams mit guten Bands gemeinsam haben."
 ---

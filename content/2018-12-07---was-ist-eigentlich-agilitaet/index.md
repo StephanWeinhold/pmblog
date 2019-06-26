@@ -5,8 +5,8 @@ cover: "./agilitaet.jpg"
 title: "Agilität - was ist das eigentlich?" 
 date: 2018-12-07T10:00:00.000Z
 path: /was-ist-eigentlich-agilitaet
-category: "agile"
-tags: ["projektmanagement", "agilität", "kaizen", "scrum"]
+category: "agilität"
+tags: ["methodik"]
 photocredits: "Ferenc Horvath auf Unsplash"
 description: "Eine Definition von Agilität - der Versuch, einer Kartographierung."
 ---

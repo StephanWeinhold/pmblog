@@ -5,8 +5,8 @@ cover: "./kaizen-agiles-projektmanagement.jpg"
 title: "Ist Scrum tot?" 
 date: 2018-11-23T10:00:00.000Z
 path: /ist-scrum-tot
-category: "agile"
-tags: ["scrum", "kaizen"]
+category: "agilität"
+tags: ["scrum"]
 photocredits: "Nathan Peterson und Zoltan Tasi auf Unsplash"
 description: "Warum Scrum seine Schuldigkeit schon längst getan hat."
 ---

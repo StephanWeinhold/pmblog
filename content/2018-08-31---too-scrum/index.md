@@ -5,7 +5,7 @@ cover: "./wenn-scrum-rituale-wichtiger-werden-als-die-arbeit.jpg"
 title: Too Scrum
 date: 2018-08-31T08:00:00.000Z
 path: /too-scrum
-category: "agile"
+category: "agilität"
 tags: ["scrum"]
 photocredits: "freestocks.org auf Unsplash"
 description: "Wenn Rituale wichtiger werden als die zu erledigende Arbeit."

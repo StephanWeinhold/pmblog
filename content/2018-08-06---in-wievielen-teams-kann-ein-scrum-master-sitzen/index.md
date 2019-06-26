@@ -5,7 +5,7 @@ cover: "./scrum.jpg"
 title: In wie vielen Teams kann ein Scrum Master sitzen
 date: "2018-08-06T10:00:00.000Z"
 path: /in-wievielen-teams-kann-ein-scrum-master-sitzen
-category: "agile"
+category: "agilität"
 tags: ["scrum", "team"]
 photocredits: "Olga Guryanova auf Unsplash"
 description: "Wir alle kennen ihn, den Spruch „Ein guter Scrum Master kann zwei Teams führen, ein großartiger Scrum Master kann ein Team führen“. Warum das meiner Meinung nach ein ausgemachter Blödsinn ist? Und in wie vielen Teams kann ein Scrum Master denn nun sitzen, um diese optimal unterstützen zu können?"
