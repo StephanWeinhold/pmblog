@@ -18,7 +18,7 @@ const mg = mailgun.client(
 );
 
 mg.messages.create(DOMAIN, {
-    from: "Projektmanagementblog Newsletter <newsletter@" + DOMAIN + ">",
+    from: "Projektmanagementblog Newsletter <newsletter@${DOMAIN}>",
     to: ["stephan.weinhold@gmail.com"],
     subject: "Hello",
     text: "Testing some Mailgun awesomness from the EU again!",
