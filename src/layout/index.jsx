@@ -1,5 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
+import CookieConsent from "react-cookie-consent";
 import config from "../../data/SiteConfig";
 
 export default class MainLayout extends React.Component {
@@ -132,6 +133,18 @@ export default class MainLayout extends React.Component {
             </p>
           </footer>
         </section>
+        
+        <CookieConsent
+          location="bottom"
+          buttonText="Alles klar."
+          style={{ background: "#0065bd" }}
+          buttonStyle={{ margin: "6px 16px", padding: "6px 12px" }}
+          contentStyle={{ margin: "12px 16px" }}
+        >
+          Diese Seite verwendet Google Analytics.
+          {" "}Das bedeuted, ggf. wird ein Cookie gesetzt.
+          {" "}<a href="/offenlegung-datenschutz/">Hier findest Du meine Datenschutzrichtline</a>.
+        </CookieConsent>
       </div>
     );
   }
