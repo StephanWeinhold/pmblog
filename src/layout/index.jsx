@@ -142,8 +142,12 @@ export default class MainLayout extends React.Component {
           contentStyle={{ margin: "12px 16px" }}
         >
           Diese Seite verwendet Google Analytics.
-          {" "}Das bedeuted, ggf. wird ein Cookie gesetzt.
-          {" "}<a href="/offenlegung-datenschutz/">Hier findest Du meine Datenschutzrichtline</a>.
+          {" "}
+          Das bedeuted, ggf. wird ein Cookie gesetzt.
+          {" "}
+          <a href="/offenlegung-datenschutz/">
+            Hier findest Du meine Datenschutzrichtline
+          </a>.
         </CookieConsent>
       </div>
     );
