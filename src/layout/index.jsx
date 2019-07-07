@@ -147,7 +147,8 @@ export default class MainLayout extends React.Component {
           {" "}
           <a href="/offenlegung-datenschutz/">
             Hier findest Du meine Datenschutzrichtline
-          </a>.
+          </a>
+          .
         </CookieConsent>
       </div>
     );
