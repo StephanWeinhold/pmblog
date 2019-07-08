@@ -5,10 +5,10 @@ class About extends Component {
   render() {
     return (
       <div>
-        <img src={me} alt="Stephan Weinhold - Projektmanager und Vortragender aus Salzburg" />        
+        <img className="mt4" src={me} alt="Stephan Weinhold - Projektmanager und Vortragender aus Salzburg" />        
         <h2>Über Stephan Weinhold</h2>
         <p>        
-          <a href="https://stephanweinhold.com">
+          <a className="link dark-blue underline-hover" href="https://stephanweinhold.com">
             <strong>Stephan Weinhold</strong>
           </a> 
           {" "}
