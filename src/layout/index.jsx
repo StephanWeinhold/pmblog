@@ -55,6 +55,30 @@ export default class MainLayout extends React.Component {
         </section>
         
         <section className="w-100">
+          <div className="center w-90 w-60-ns pv4 ph4 lh-copy bg-yellow">
+            <h3 className="dark-pink">Keine Sorge!</h3>
+            <p className="black">
+              Es schaut zwar alles neu aus, aber im Grunde hat sich nichts geändert. 
+              Das heißt: neues Layout (endlich!), neue Domain (projektmanagementblog.de), 
+              die selben (hoffentlich guten, auf jeden Fall mit viel Liebe geschriebenen) 
+              Artikel über Projektmanagement. Alle zwei Wochen. Nur für Euch!
+            </p>
+            <p className="black">
+              Ich freue mich, wie immer, über Euer Feedback via 
+              {" "}
+              <a href="mailto:stephan.weinhold@projektmanagementblog.de" className="link dark-pink">E-Mail</a>
+              , 
+              {" "}
+              <a href="https://www.linkedin.com/in/stephanweinhold" className="link dark-pink">LinkedIn</a>
+              , oder
+              {" "} 
+              <a href="https://www.xing.com/profile/Stephan_Weinhold" className="link dark-pink">XING</a>
+              .
+            </p>
+          </div>
+        </section>
+        
+        <section className="w-100">
           <main className="center w-90 w-60-ns">
             
             {children}
