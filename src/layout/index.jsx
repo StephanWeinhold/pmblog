@@ -66,7 +66,7 @@ export default class MainLayout extends React.Component {
             <p className="black">
               Ich freue mich, wie immer, über Euer Feedback via 
               {" "}
-              <a href="mailto:stephan.weinhold@projektmanagementblog.de" className="link dark-pink">E-Mail</a>
+              <a href="mailto:stephan.weinhold@gmail.com" className="link dark-pink">E-Mail</a>
               , 
               {" "}
               <a href="https://www.linkedin.com/in/stephanweinhold" className="link dark-pink">LinkedIn</a>
@@ -113,8 +113,8 @@ export default class MainLayout extends React.Component {
                 <nav className="mv1">
                   <ul className="list pl0">
                     <li className="mb3">
-                      <a href="mailto:stephan.weinhold@projektmanagementblog.de" className="link mr3 white underline-hover">
-                        stephan.weinhold@projektmanagementblog.de
+                      <a href="mailto:stephan.weinhold@gmail.com" className="link mr3 white underline-hover">
+                        stephan.weinhold@gmail.com
                       </a>
                     </li>
                     <li className="mb3">

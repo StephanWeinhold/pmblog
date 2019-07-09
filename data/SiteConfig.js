@@ -12,7 +12,7 @@ const config = {
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD.MM.YYYY", // Date format for display.
   userName: "Stephan Weinhold", // Username to display in the author segment.
-  userEmail: "stephan.weinhold@projektmanagementblog.de", // Email used for RSS feed's author segment
+  userEmail: "stephan.weinhold@gmail.com", // Email used for RSS feed's author segment
   userTwitter: "StephanWeinhold", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "Salzburg, Austria", // User location to display in the author segment.
   userAvatar: "/stephan-weinhold.png", // User avatar to display in the author segment.
@@ -32,7 +32,7 @@ const config = {
     },
     {
       label: "Email",
-      url: "mailto:stephan.weinhold@projektmanagementblog.de",
+      url: "mailto:stephan.weinhold@gmail.com",
       iconClassName: "fa fa-envelope"
     }
   ],

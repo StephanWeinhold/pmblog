@@ -14,8 +14,8 @@ class Offenlegungdatenschutz extends Component {
             <br />
             Österreich
             <br />
-            <a href="mailto:stephan.weinhold@projektmanagementblog.de">
-              stephan.weinhold@projektmanagementblog.de
+            <a href="mailto:stephan.weinhold@gmail.com">
+              stephan.weinhold@gmail.com
             </a>
           </address>
         </p>
@@ -107,8 +107,8 @@ class Offenlegungdatenschutz extends Component {
             <br />
             Österreich
             <br />
-            <a href="mailto:stephan.weinhold@projektmanagementblog.de">
-              stephan.weinhold@projektmanagementblog.de
+            <a href="mailto:stephan.weinhold@gmail.com">
+              stephan.weinhold@gmail.com
             </a>
           </address>
         </p>
