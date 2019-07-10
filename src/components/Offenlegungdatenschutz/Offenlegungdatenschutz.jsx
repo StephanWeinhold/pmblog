@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import me from "../../../static/stephan-weinhold.png";
+import config from "../../../data/SiteConfig";
 
 class Offenlegungdatenschutz extends Component {
   render() {
@@ -14,7 +15,7 @@ class Offenlegungdatenschutz extends Component {
             <br />
             Österreich
             <br />
-            <a href="mailto:stephan.weinhold@gmail.com">
+            <a href={`mailto:${config.userEmail}`}>
               stephan.weinhold@gmail.com
             </a>
           </address>
@@ -107,7 +108,7 @@ class Offenlegungdatenschutz extends Component {
             <br />
             Österreich
             <br />
-            <a href="mailto:stephan.weinhold@gmail.com">
+            <a href={`mailto:${config.userEmail}`}>
               stephan.weinhold@gmail.com
             </a>
           </address>

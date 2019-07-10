@@ -89,8 +89,8 @@ export default class MainLayout extends React.Component {
                 <nav className="mv1">
                   <ul className="list pl0">
                     <li className="mb3">
-                      <a href="mailto:stephan.weinhold@gmail.com" className="link mr3 white underline-hover">
-                        stephan.weinhold@gmail.com
+                      <a href={`mailto:${config.userEmail}`} className="link mr3 white underline-hover">
+                        {config.userEmail}
                       </a>
                     </li>
                     <li className="mb3">

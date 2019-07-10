@@ -28,7 +28,7 @@ class Index extends React.Component {
               <p className="black">
                 Ich freue mich, wie immer, über Euer Feedback via 
                 {" "}
-                <a href="mailto:stephan.weinhold@gmail.com" className="link dark-pink">E-Mail</a>
+                <a href={`mailto:${config.userEmail}`} className="link dark-pink">E-Mail</a>
                 , 
                 {" "}
                 <a href="https://www.linkedin.com/in/stephanweinhold" className="link dark-pink">LinkedIn</a>
