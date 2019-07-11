@@ -1,4 +1,4 @@
-# projektmanagementblog.de based on Gatsby - work in progress!
+# projektmanagementblog.de based on Gatsby
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/eda03892-1e9b-4b59-9069-0d1fed428c77/deploy-status)](https://app.netlify.com/sites/projektmanagementblog/deploys)
 [![Maintainability](https://api.codeclimate.com/v1/badges/52bb9177e180bc3ad26f/maintainability)](https://codeclimate.com/github/StephanWeinhold/pmblog/maintainability)
