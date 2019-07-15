@@ -38,6 +38,7 @@
     "react-cookie-consent": "^2.3.2",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
+    "react-scrolltop-button": "^0.1.6",
     "react-share": "^3.0.0",
     "react-twitter-widgets": "^1.7.1",
     "url-join": "^4.0.0"

@@ -1,5 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
+import ScrollTop from "react-scrolltop-button";
 import CookieConsent from "react-cookie-consent";
 import config from "../../data/SiteConfig";
 
@@ -133,7 +134,26 @@ export default class MainLayout extends React.Component {
             </p>
           </footer>
         </section>
-        
+
+        <ScrollTop
+          text="nach oben"
+          style={
+            {
+              right: "5%",
+              bottom: "10%",
+              paddingLeft: "1rem",
+              paddingRight: "1rem",
+              paddingTop: ".5rem",
+              paddingBottom: ".5rem",
+              borderRadius: "0",
+              border: "1px solid #00449e",
+              fontWeight: "normal",
+              transition: "color .15s ease-in",
+            }
+          }
+          className="f6 link dim ba ph3 pv2 mb2 dib dark-blue"
+        />
+
         <CookieConsent
           location="bottom"
           buttonText="Alles klar."
