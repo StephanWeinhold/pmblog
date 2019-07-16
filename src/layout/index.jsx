@@ -22,8 +22,12 @@ export default class MainLayout extends React.Component {
           blockquote {
             border-left: .25em solid #dfe2e5;
             color: #6a737d;
-            margin-left: 0;
+            margin: 1.5em 0;
             padding: 0 1em;
+          }
+          
+          h3 {
+            margin-top: 2em;
           }
           
           .tag:before,
