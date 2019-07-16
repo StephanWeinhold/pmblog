@@ -19,6 +19,13 @@ export default class MainLayout extends React.Component {
         </Helmet>
         
         <style dangerouslySetInnerHTML={{__html: `
+          blockquote {
+            border-left: .25em solid #dfe2e5;
+            color: #6a737d;
+            margin-left: 0;
+            padding: 0 1em;
+          }
+          
           .tag:before,
           .category:before {
             content: "#";
