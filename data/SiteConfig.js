@@ -5,7 +5,7 @@ const config = {
   siteLogo: "/logos/favicon.png", // Logo used for SEO and manifest.
   siteUrl: "https://projektmanagementblog.de", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: "Gedanken über Projektmanagement. Klassisch, agil, hybrid.", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "Gedanken über modernes Projektmanagement. Klassisch, agil, hybrid.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   googleAnalyticsID: "UA-74431055-2", // GA tracking ID.
   postDefaultCategoryID: "Projektmanagement", // Default category for posts.
