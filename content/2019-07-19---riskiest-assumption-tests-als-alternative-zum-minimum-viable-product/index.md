@@ -1,6 +1,6 @@
 ---
 layout: post
-draft: true
+draft: false
 cover: "./minimum-viable-product.jpg"
 title: "Riskiest Asumption Tests als Alternative zum Minimum Viable Product"
 date: 2019-07-19T20:00:00.000Z
