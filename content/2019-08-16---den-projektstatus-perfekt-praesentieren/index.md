@@ -1,6 +1,6 @@
 ---
 layout: post
-draft: true
+draft: false
 cover: "./projektstatus-praesentieren.jpg"
 title: "Den Projektstatus perfekt präsentieren"
 date: 2019-08-16T08:00:00.000Z
