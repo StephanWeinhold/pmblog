@@ -35,7 +35,7 @@
     "npm": "^6.10.1",
     "prismjs": "^1.16.0",
     "react": "^16.8.6",
-    "react-cookie-consent": "^2.3.2",
+    "react-cookie-consent": "^3.0.0",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
     "react-scrolltop-button": "^0.1.6",
