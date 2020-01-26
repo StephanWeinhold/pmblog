@@ -40,8 +40,7 @@ Für den Anfang ist das wertvoll und gut. Eine neue Denkweise, ein neuer Ansatz.
 
 ### Sehe das nur ich so?
 
-Nein. Warum würde es dann mit LeSS, SAFe, scrum of scrums, Scrum@Scale, etc., so viele [Versuche geben, Scrum zu skalieren](/scaling-scrum)? Warum würden Sutherland und Schwaber dann primär mit dem Angebot von immer neuen Zertifizierungen beschäftigt sein? Warum würde es dann so viele verzweifelte (Fehl-)versuche geben, Scrum außerhalb der Softwareentwicklung einzusetzen? Meine Meinung: Scrum ist tot.  
-Der einzige, der das noch immer nicht kapiert hat, ist Mike Cohn. Der wird auch in 100 Jahren noch glauben, seine _Command & Control_-Herangehensweise sei agil und modernes Management. Aber das ist eine andere Geschichte.
+Nein. Warum würde es sonst mit LeSS, SAFe, scrum of scrums, Scrum@Scale, etc., so viele [Versuche geben, Scrum zu skalieren](/scaling-scrum)? Warum sonst würden Sutherland und Schwaber primär mit dem Angebot von immer neuen Zertifizierungen beschäftigt sein? Warum sonst würde es dann so viele verzweifelte (Fehl-)versuche geben, Scrum außerhalb der Softwareentwicklung einzusetzen? Meine Meinung: Scrum ist tot.  
 
 Nicht nur in der Softwareentwicklung, generell ist eine Unterscheidung zwischen Run und Change, zwischen der Prozesswelt und der Projektwelt, zwischen Operations und Veränderung immer schwieriger. Frameworks, Ansätze, Methodiken, die da bestehen wollen, müssen nicht nur [über den Tellerrand sehen](/modernes-projektmanagement), sie müssen auch auf einer viel tieferen Ebene ansetzen, als unser Scrum das macht.
 

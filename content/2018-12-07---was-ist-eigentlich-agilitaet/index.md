@@ -17,7 +17,7 @@ Eine Definition von Agilität - der Versuch, einer Kartographierung.
 
 ### Schlechte Angewohnheiten
 
-Ich (ja ich weiß, man soll seine Sätze nicht mit „ich“ beginnen – ich mache es trotzdem) bin im Lauf der Jahre schon in vielen Seminaren, Vorträgen, Reden zum Thema Agilität gesessen. So wie Ihr alle hier. Und diese Seminare, Vorträge, Reden haben so gut wie alle eine Sache gemeinsam (außer dem Thema natürlich): die Vortragenden beginnen mit einem Beispiel, das verdeutlichen soll, wie schlecht _Wasserfall_ denn nicht sei. Furchtbare Dinge passieren, wenn man dieses _Wasserfall_ macht. Und nach dem Todeschaoswasserfallprojekt erklären sie uns dann, dass das alles mit _Agilität_ nicht passiert wäre. Weil Feenstaub.
+Ich (ja ich weiß, man soll seine Sätze nicht mit „ich“ beginnen – ich mache es trotzdem) bin im Lauf der Jahre schon in vielen Seminaren, Vorträgen, Reden zum Thema Agilität gesessen. So wie Ihr alle hier. Und diese Seminare, Vorträge, Reden haben so gut wie alle eine Sache gemeinsam (neben dem Thema natürlich): die Vortragenden beginnen mit einem Beispiel, das verdeutlichen soll, wie schlecht _Wasserfall_ denn nicht sei. Furchtbare Dinge passieren, wenn man dieses _Wasserfall_ macht. Und nach dem Todeschaoswasserfallprojekt erklären sie uns dann, dass das alles mit _Agilität_ nicht passiert wäre. Weil Feenstaub.
 
 Aber was bedeutet denn _Agilität_? Und was bedeutet _Wasserfall_? Und worum geht es überhaupt und generell? Diese Fragen bekommen wir selten bis gar nicht beantwortet. Schade eigentlich. Denn diese Metathemen, dieses Big Picture, dieser Überblick ist recht spannend. Deshalb wollen wir uns das mal näher ansehen.
 
