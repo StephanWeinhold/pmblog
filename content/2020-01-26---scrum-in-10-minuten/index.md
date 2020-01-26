@@ -78,7 +78,8 @@ Alle paar Wochen also setzt sich das Scrumteam zusammen und
 2. bespricht im Rahmen einer _Retrospektive_, was am letzten Sprint gut war, was nicht so gut war und wo und vor allem wie man sich verbessern will, und 
 3. nimmt sich vor, was im kommenden Sprint umgesetzt wird.
 
-Während eines Sprints analysiert das Team die neu hinzugekommenen Aufgaben. Sind sie so wie beschrieben umsetzbar? Und wie aufwändig sind sie in etwa?
+Während eines Sprints analysiert das Team die neu hinzugekommenen Aufgaben. Sind sie so wie beschrieben umsetzbar? Und wie aufwändig sind sie in etwa?  
+Diese Aufgaben finden sich in einer Liste. Der oft gehörte _Product Backlog_. Ganz oben steht die Aufgabe mit dem höchsten Kundenwert, gefolgt von der mit dem zweithöchsten Kundenwert, gefolgt von der mit dem dritthöchsten Kundenwert, und so weiter und so fort. Ihr erkennt das Muster.
 
 ### Das Scrumteam
 
