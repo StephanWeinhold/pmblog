@@ -33,7 +33,7 @@ class PostListing extends React.Component {
             <h1 className="f3 lh-copy mb2 "><Link to={post.path} className="link black-90">{post.title}</Link></h1>
             <nav className="nav-lh">
               <div className="nowrap overflow-x-auto">
-                <span className="mr2 black-50"><time dateTime={post.date}>{moment(post.date).format('D.M.YYYY')}</time></span>
+                <span className="mr2 black-50"><time dateTime={post.date}>{moment(post.date).format('YYYY')}</time></span>
                 <PostCategory category={post.category} />
                 <PostTags tags={post.tags} />
               </div>
