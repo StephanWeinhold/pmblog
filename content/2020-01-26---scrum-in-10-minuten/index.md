@@ -1,6 +1,6 @@
 ---
 layout: post
-draft: true
+draft: false
 cover: "./scrum-in-10-minuten.jpg"
 title: "Scrum in 10 Minuten"
 date: 2020-01-26T20:00:00.000Z
