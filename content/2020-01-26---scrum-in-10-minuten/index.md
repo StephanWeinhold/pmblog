@@ -104,4 +104,4 @@ Die Frage ist relativ leicht zu beantworten. Wenn ich
 - als Organisation in einem Umfeld tätig bin, in dem ich mit meinem Softwareprojekten eine möglichst kurze _Time-to-market_ benötige - also schnell Wert für den Kunden generieren möchte, weil der Kunde dann Wert für mich in Form von Geld generiert. Und wenn ich 
 - mit meinen Softwareprojekten eine hohe Ungewissheit habe, was ich wie machen muss.
 
-In allen anderen Szenarien ist Scrum wahrscheinlich nicht das Richtige für mich. My two cents. Aber darüber mehr ein anderes mal.
+In allen anderen Szenarien ist Scrum wahrscheinlich nicht das Richtige für mich. My two cents. Aber das sprengt den Rahmen der zehn Minuten.
