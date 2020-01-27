@@ -11,13 +11,14 @@ photocredits: "Cathryn Lavery auf Unsplash"
 description: "Diese Checkliste habe ich seit Jahren in Verwendung. Sie ist gewachsen und wird sich auch in Zukunft verändern. Agil eben."
 ---
 
-Diese Checkliste habe ich seit Jahren in Verwendung. Sie ist gewachsen und wird sich auch in Zukunft verändern. Agil eben.
+Diese Checkliste habe ich seit Jahren in Verwendung. Sie ist gewachsen und wird sich auch in Zukunft verändern. So solltet Ihr das mit Eurer auch handhaben.
 
 ![Checkliste für Scrum Master](./scrum-master-checklist.jpg)
 
 ### Warum überhaupt eine Checkliste
 
-Für mich ist es wichtig, immer wieder zu schauen, ob ich nicht irgendwo am Weg und im Getümmel des Alltages den Fokus verloren habe. Dafür gehe ich ab und zu ganz bewusst diese Liste durch. Und ja, ertappt - diese Liste ist nicht religiös eifernd. Es gibt keinen erhobenen Zeigefinger und keinen Hinweis auf den Scrumguide. Und Moral und Anstand fehlen auch. Dafür ist viel Erfahrung drinnen.
+Für mich ist es wichtig, immer wieder zu schauen, ob ich nicht irgendwo am Weg und im Getümmel des Alltages den Fokus verloren habe. Dafür gehe ich ab und zu ganz bewusst diese Liste durch.  
+Und ja, ertappt - diese Liste ist nicht religiös eifernd. Es gibt keinen erhobenen Zeigefinger und keinen Hinweis auf den Scrumguide. Und Moral und Anstand fehlen auch. Dafür ist viel Erfahrung drinnen.
 
 ### Diese Fragen stelle ich mir etwa einmal im Monat:
 
