@@ -7,7 +7,7 @@ date: 2020-01-26T20:00:00.000Z
 path: /scrum-in-10-minuten
 category: "agilität"
 tags: ["scrum", "wissen"]
-photocredits: "Quino Al und Fabien Bazanegue auf Unsplash"
+photocredits: "Quino Al und Fabien Bazanegue auf Unsplash, Henrik Kniberg"
 description: "Viel wird über Scrum erzählt, geschrieben, erklärt, vorgetragen. Doch was von all dem stimmt überhaupt? Gibt es überhaupt so etwas wie die absolute reine Wahrheit, wenn es um Scrum geht? Und worum geht es bei Scrum eigentlich?"
 ---
 
@@ -58,6 +58,8 @@ Alle paar Wochen also setzt sich das Scrumteam zusammen und
 
 Während eines Sprints analysiert das Team die neu hinzugekommenen Aufgaben. Sind sie so, wie beschrieben, umsetzbar? Und wie aufwändig sind sie in etwa?  
 Diese Aufgaben finden sich in einer Liste. Der oft gehörte _Product Backlog_. Ganz oben steht die Aufgabe mit dem höchsten Kundenwert, gefolgt von der mit dem zweithöchsten Kundenwert, gefolgt von der mit dem dritthöchsten Kundenwert, und so weiter und so fort. Ihr erkennt das Muster.
+
+![Henrik Kniberg Minimum Viable Product](./minimum-viable-product.jpg)
 
 ### Das Scrumteam
 
