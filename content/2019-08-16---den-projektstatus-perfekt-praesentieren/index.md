@@ -41,7 +41,7 @@ Und das bringt uns volée zu unserem nächsten Punkt.
 
 ### Prioritäten
 
-Das ist für mich der wichtigste Punkt von allen. Ok, jeder einzelne ist der wichtigste. Aber der hier ganz besonders: Was ist wirklich wichtig? Was will ich kommunizieren? Wie sieht meine Kernaussage aus? Schaffe ich es, den Inhalt meiner ganzen Präsentation für mich in einen Satz zu verpacken? Wenn nicht, habe ich vielleicht zu viel (für den Augenblick unnötige) Information mit an Bord. Das geht natürlich Hand in Hand mit unserem vorherigen Punkt. Wer ist da anwesend und was erwarten die von mir zu hören.
+Das ist für mich der wichtigste Punkt von allen. Ok, jeder einzelne ist der wichtigste. Aber der hier ganz besonders: Was ist wirklich wichtig? Was will ich kommunizieren? Wie sieht meine Kernaussage aus? Schaffe ich es, den Inhalt meiner ganzen Präsentation für mich in einen Satz zu verpacken? Wenn nicht, habe ich vielleicht zu viel (für den Augenblick unnötige) Information mit an Bord. Das geht natürlich Hand in Hand mit unserem vorherigen Punkt. Wer ist da anwesend und was erwarten die, von mir zu hören.
 
 Und ja, ich weiß. Das ist alles wichtig, was wir da für unsere Präsentation an Material haben. Aber ist es das wirklich? Wir sind so gut im setzen von Prioritäten. Das können wir. Das konnten wir schon vor Scrum. Aber bei unseren Statusreports scheitern wir oft daran. Dabei ist es gerade dort wahnsinnig wichtig. Vielleicht gerade deshalb. Da müssen wir also doppelt sensitiv und priorisierend sein.
 
