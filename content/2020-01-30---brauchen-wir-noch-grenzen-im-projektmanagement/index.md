@@ -13,6 +13,8 @@ description: "Das projektmagazin fragt sich, ob wir noch Grenzen im Projektmanag
 
 Das projektmagazin, welches ich übrigens sehr schätze, fragt sich, [ob wir noch Grenzen im Projektmanagement brauchen](https://www.projektmagazin.de/blogparade_2020). Und die Frage bringt mich ein wenig zum Nachdenken. Aber nur kurz. Denn die Antwort ist für mich ziemlich eindeutig. Aber vorher lasst mich auf ein paar der Argumente eingehen.
 
+![Grenzen im Projektmanagement](./grenzen-im-projektmanagement.jpg)
+
 ### Vom Wald und von Bäumen
 
 > „Transparenz wird belohnt mit Wettbewerbsfähigkeit und Speed.“
@@ -27,6 +29,8 @@ In den letzten etwa zehn Jahren beobachte ich, dass in mehr und mehr Unternehmen
 Aber so ein Standard kann auch lähmen. Vor allem in Zeiten wie diesen, wo uns Change und Disruption nur so um die Ohren fliegen. Als Begriffe, wie als Phänomene.
 
 Aber das war in meinen Augen nichts desto trotz immer schon so. Ich denke hier vor allem an die von mir so geliebte [Komplexitätsmatrix](/modernes-projektmanagement#die-qual-der-wahl). Erfolgreich waren immer schon die Projekte, deren Eltern nicht starr den Wasserfall hinuntergepaddelt sind (pardon the pun!), sondern die situationselastisch, flexibel, rolling-wave-planend angegangen wurden. Prädiktiv, was ich beherrsche. Inkrementell, iterativ, adaptiv, was ich zu Beginn nur schwer (ab)schätzen kann. Das klingt nach Freiheit. Aber das kann auch nur funktionieren, wenn ich meine Standards, Methoden, Methodologien, und Frameworks nicht nur kenne, sondern auch anwenden kann. Hier muss ich wieder mal meine Handwerkeranalogie auspacken. Als Zimmermann muss ich die Werkzeuge, die ich in meinem Handwerkskoffer so mit mir herumtrage, beherrschen. Aber auch der Zimmermann, der alles mit dem Schraubenzieher versucht zu erledigen, wird eher mühsam vorankommen. Die Wahrheit liegt, wie so oft, irgendwo in der Mitte.
+
+![Keine Grenzen im Projektmanagement](./keine-grenzen-im-projektmanagement.jpg)
 
 ### Von der Wahrheit zurück zur Freiheit
 
