@@ -142,7 +142,7 @@ export default class MainLayout extends React.Component {
             </div>
                   
             <p className="f7 white mb3 ph2-ns">
-                Copyright © Stephan Weinhold 2019 &#8226; Ich hoffe, Ihr habt einen wunderbaren Tag!
+                Copyright © Stephan Weinhold 2020 &#8226; Ich hoffe, Ihr habt einen wunderbaren Tag!
             </p>
           </footer>
         </section>
