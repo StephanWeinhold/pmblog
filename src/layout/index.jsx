@@ -41,6 +41,7 @@ export default class MainLayout extends React.Component {
           
           #prefooter {
             background-image: url('../../bg_scribble.jpg');
+            display: none;
           }
         `}} 
         />
@@ -61,7 +62,7 @@ export default class MainLayout extends React.Component {
             <a href="/" className="link mr3 pv1 ph2 underline-hover bg-dark-blue white">Alle Artikel</a>
             <a href="/kategorien" className="link mr3 pv1 ph2 underline-hover bg-gold white">#Kategorien</a>
             <a href="/themen" className="dn di-ns link mr3 pv1 ph2 underline-hover bg-green white">#Themen</a>
-            <a href="/newsletter" className="link mr3 pv1 ph2 underline-hover bg-red white">Newsletter</a>
+            <a href="/newsletter" className="dn link mr3 pv1 ph2 underline-hover bg-red white">Newsletter</a>
             <a href="/stephan-weinhold" className="dn di-ns link mr3 pv1 ph2 underline-hover bg-light-purple white">Über mich</a>
           </nav>
         </section>
