@@ -41,7 +41,7 @@ Lasst mich noch kurz auf die vorhin eben angesprochene Freiheit zurückkommen. D
 3. Ri. Die Regeln sein.
 
 Und wenn wir Scrum ernsthaft betreiben, dann sind wir aus den 16 Seiten, die der [Scrum Guide](https://www.scrumguides.org/index.html) so an Inhalt für uns bereithält, nach spätestens einiger Zeit herausgewachsen. (Ihr kennt [meine Argumente](/ist-scrum-tot).)  
-Und hier kommt das von mir so gehasste große "aber". Aber. Damit das funktioniert, brauche ich auch hier eine Basis. Auch, wenn ich Scrum noch so sehr verbiege und anpasse. irgendwo gibt es eine Grundidee. Irgendwo gibt es Richtlinien, auf die sich (hoffentlich) alle geeinigt haben.
+Und hier kommt das von mir so gehasste große "aber". Aber. Damit das funktioniert, brauche ich auch hier eine Basis. Auch, wenn ich meinen Projektmanagementstandard noch so sehr verbiege und anpasse. irgendwo gibt es eine Grundidee. Irgendwo gibt es Richtlinien, auf die sich (hoffentlich) alle geeinigt haben.
 
 ### Braucht Projektmanagement nun also Grenzen?
 
