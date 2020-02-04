@@ -30,7 +30,7 @@ _Spoiler Alert_: Die Schnittstelle zwischen dem Tagesgeschäft und der Strategie
 3. Flight Level 3  
 Die Strategieebene. Da, wo die Visionen entstehen.
 
-Und ich hör die Projektmanagerinnen und Projektmanager jetzt alle rufen: "Das haben wir ja schon lange! Projekt, Programm, Portfolio." Mir ging es Anfangs genauso. Aber bei den Flight Levels geht es um mehr als nur um _Change_. (Und dennoch denke ich, dass es da ganz viele Parallelen zwischen Projekt-Programm-Portfolio und den Flight Levels gibt, keine Frage.)
+Und ich hör die Projektmanagerinnen und Projektmanager jetzt alle rufen: "Das haben wir ja schon lange! Projekt, Programm, Portfolio." Mir ging es Anfangs genauso. Aber bei den Flight Levels geht es um mehr als nur um _Change_. (Und dennoch denke ich, dass es da ganz viele Parallelen zwischen Projekt-Programm-Portfolio und den Flight Levels gibt, keine Frage. Und natürlich auch zu den Planungsebenen aus der Allgemeinen Betriebswirtschaftslehre - strategisch, taktisch, operativ.)
 
 Für mich sind die einzelnen Flight Levels teilweise auch anders gemeint, beziehungsweise weiter gegriffen, beziehungsweise genauer. Ich weiß, das widerspricht sich. Lasst uns die drei also mal näher anschauen.
 
