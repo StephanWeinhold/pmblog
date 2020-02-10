@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from "gatsby";
+import moment from "moment";
 import PostTags from "../PostTags/PostTags";
 import PostCategory from "../PostCategory/PostCategory";
-import moment from "moment";
 
 class PostListing extends React.Component {
   getPostList() {
@@ -45,7 +45,8 @@ class PostListing extends React.Component {
               <Link to={post.path} className="link pv1 ph2 underline-hover bg-dark-blue white">Artikel lesen</Link>
             </p>
           </article>
-        ))}
+        ))
+        }
       </div>
     );
   }

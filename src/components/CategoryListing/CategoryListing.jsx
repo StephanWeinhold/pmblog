@@ -1,7 +1,7 @@
 import React from "react";
 import _ from "lodash";
 import { Link } from "gatsby";
-import { replaceUmlauts } from "../../helpers.js";
+import { replaceUmlauts } from "../../helpers";
 
 class CategoryListing extends React.Component {
   getCategoryList() {
@@ -48,7 +48,8 @@ class CategoryListing extends React.Component {
                 )
               </Link>
             </li>
-          ))}
+          ))
+          }
         </ul>
       </div>
     );

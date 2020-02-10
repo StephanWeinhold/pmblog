@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import _ from "lodash";
 import { Link } from "gatsby";
-import { replaceUmlauts } from "../../helpers.js";
+import { replaceUmlauts } from "../../helpers";
 
 class PostCategory extends Component {
   render() {

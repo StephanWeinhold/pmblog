@@ -1,7 +1,7 @@
 import React from "react";
 import _ from "lodash";
 import { Link } from "gatsby";
-import { replaceUmlauts } from "../../helpers.js";
+import { replaceUmlauts } from "../../helpers";
 
 class TagListing extends React.Component {
   getTagList() {
@@ -48,7 +48,8 @@ class TagListing extends React.Component {
                 )
               </Link>
             </li>
-          ))}
+          ))
+          }
         </ul>
       </div>
     );
