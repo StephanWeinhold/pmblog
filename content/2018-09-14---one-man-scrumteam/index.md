@@ -52,7 +52,7 @@ Ihr seht also, dass bei kleineren Teams sehr viel an Kommunikationsaufwand wegf�
 
 #### Zurück zum Scrum Master
 
-Wenn der Scrum Master [gerade nicht beim Team sitzt](/in-wievielen-teams-kann-ein-scrum-master-sitzen/), bedeutet das ja nicht, dass keiner sich mehr um das Team kümmert. Ich habe beobachtet, dass in so Momenten die Hauptaufgaben des Scrum Masters - wenn ich diese jetzt grob platt mache, würde ich sagen, der “Kümmerer” - oft vom _Senior_ im Team übernommen werden.  
+Wenn der Scrum Master [gerade nicht beim Team sitzt](/in-wie-vielen-teams-kann-ein-scrum-master-sitzen), bedeutet das ja nicht, dass keiner sich mehr um das Team kümmert. Ich habe beobachtet, dass in so Momenten die Hauptaufgaben des Scrum Masters - wenn ich diese jetzt grob platt mache, würde ich sagen, der “Kümmerer” - oft vom _Senior_ im Team übernommen werden.  
 Das bedeutet, wenn ich jemanden außerhalb des Teams habe, der das Team ab und zu im Sinne eines Scrum Masters betreut (Retros leiten, nach dem Rechten sehen, Team abschirmen, moderieren, Steine aus dem Weg räumen, etc. - Ihr wisst, was ich meine, Ihr kennt das alles) und ansonsten die Scrum Master-Aufgaben von einzelnen Teammitgliedern übernommen werden, benötige ich plötzlich nur mehr **drei Teammitglieder**.
 
 ### Warum jetzt aufhören?

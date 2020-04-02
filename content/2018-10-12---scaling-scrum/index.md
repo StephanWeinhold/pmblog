@@ -24,7 +24,7 @@ Bevor wir über das Skalieren von Scrum reden, sollten wir klären, was Scrum ei
 ### Grenzen und der Versuch deren Überwindung
 
 Diese Fokussierung auf die Softwareentwicklung und dort auf das Tagesgeschäft ist der Grund, warum Organisationen häufig mit der Einführung von Scaled Scrum als Lösung für alles scheitern. Weil ich dann versuche, meine ganze Arbeit mit etwas abzubilden, das dafür gar nicht gedacht ist.  
-Einige dieser Organisationen haben sich nach den ersten Erfahrungen nach anderen Methodiken umgesehen. Manche wählen einen [Hybridansatz](/modernes-projektmanagement). Andere haben den Versuch unternommen, Scrum so zu erweitern, dass ich damit sämtliche Ebenen und Aspekte meines Project-Lifecycle abdecke.
+Einige dieser Organisationen haben sich nach den ersten Erfahrungen nach anderen Methodiken umgesehen. Manche wählen einen [Hybridansatz](/modernes-projektmanagement-der-methodische-teil). Andere haben den Versuch unternommen, Scrum so zu erweitern, dass ich damit sämtliche Ebenen und Aspekte meines Project-Lifecycle abdecke.
 
 ### Dann also auf zum Skalieren
 

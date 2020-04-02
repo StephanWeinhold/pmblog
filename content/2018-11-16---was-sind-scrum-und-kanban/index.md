@@ -55,7 +55,7 @@ Kanban ist - anders als Scrum - sehr weit gegriffen und sehr theoretisch. Das ha
 
 ### Und was haben Scrum und Kanban nun gemeinsam? Worum geht es im Wesentlichen?
 
-Mit einem Wort (und das kam bereits vor): **Mindset**. Und das ist auch der Grund, warum die beiden oft in einem Atemzug genannt werden. Scrum und Kanban verschieben beide die [Verantwortung, wie die tägliche Arbeit erledigt wird](/fuehrungskraefte-und-die-umstellung-auf-agilitaet) weg von den Führungskräften und hin zu den Stellen, an denen diese tägliche Arbeit auch gemacht wird. Von Taiichi Ohno, dem Formulierer von Kanban, gibt es ein schönes Zitat: “Unsere Mitarbeiter kommen nicht zu uns, um zu arbeiten, sondern um zu denken.”
+Mit einem Wort (und das kam bereits vor): **Mindset**. Und das ist auch der Grund, warum die beiden oft in einem Atemzug genannt werden. Scrum und Kanban verschieben beide die [Verantwortung, wie die tägliche Arbeit erledigt wird](/fuehrungskraefte-und-die-umstellung-auf-agilitat) weg von den Führungskräften und hin zu den Stellen, an denen diese tägliche Arbeit auch gemacht wird. Von Taiichi Ohno, dem Formulierer von Kanban, gibt es ein schönes Zitat: “Unsere Mitarbeiter kommen nicht zu uns, um zu arbeiten, sondern um zu denken.”
 
 Das bedeutet, dass sich Teams selbst organisieren. Das bedeutet, dass Organisationen sich neue Strukturen geben (die gute, alte Matrix feiert da oft ein Revival). Das bedeutet, dass Organisationen wesentlich transparenter werden. Müssen. Das bedeutet neues Management, neues Arbeiten, neues Denken. Und dafür gibt es keine Blaupause, das muss jede Organisation für sich finden. Scrum und Kanban sind da nur die Hilfsmittel dazu.
 

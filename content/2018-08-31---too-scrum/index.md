@@ -17,7 +17,7 @@ Wenn Rituale wichtiger werden, als die zu erledigende Arbeit.
 
 ### Die Definition
 
-Ich gebe zu, ich [belächle](/scrum-master-checkliste) ja gerne [diejenigen](/in-wievielen-teams-kann-ein-scrum-master-sitzen), die Scrum beinahe schon wie eine Religion betrachten. Aber eigentlich sind diese Personen ein ziemliches Problem für die Organisation, in der sie sitzen.  
+Ich gebe zu, ich [belächle](/die-checkliste-fuer-scrum-master) ja gerne [diejenigen](/in-wie-vielen-teams-kann-ein-scrum-master-sitzen), die Scrum beinahe schon wie eine Religion betrachten. Aber eigentlich sind diese Personen ein ziemliches Problem für die Organisation, in der sie sitzen.  
 Aber zuerst, wen meine ich eigentlich genau?
 
 _Scrum-Apologeten_ sind für mich die Personen, die versuchen, alle Antworten auf alle Fragen im [Scrum Guide](https://www.scrumguides.org) zu finden. Wenn ein Teammitglied etwas benötigt: lass uns im Scrum Guide nachlesen, dort finden wir sicher die Antwort. Wenn der Product Owner eine Frage hat: lass uns im Scrum Guide nachlesen, dort finden wir sicher die Antwort. Wenn etwas nicht so läuft, wie es im Scrum Guide beschrieben ist: lass uns im Scrum Guide nachlesen, dort finden wir sicher die Antwort.

@@ -17,7 +17,7 @@ Warum Scrum seine Schuldigkeit schon längst getan hat.
 
 ### Zuerst das Positive: wann Scrum die richtige Methodik war
 
-Viel wird über Scrum geschrieben. Es sei ein Allheilmittel für sämtliche organisatorischen Wehwehchen, die Lösung aller projektmanagementtechnischen Probleme, [Agilität](/was-sind-scrum-und-kanban) und Glückseligkeit. Ganz schön viel Erwartungshaltung für ein [Framework, dessen Dokumentation gerade mal 16 Seiten Inhalt hat](/too-scrum). Aber ich denke, diese Einfachheit, diese (absichtliche) Limitiertheit ist auch das Geheimnis des Erfolges von Scrum. Ich muss nicht viel Ahnung von Prozess- und Projektmanagement (das ja mehr oder weniger eine Unterkategorie von ersterem ist) haben, um Scrum verstehen zu können. Ein bisschen neue Türschilder, ein bisschen Reviews und Retros, ein bisschen Dailies, ein bisschen Feenstaub und schon bin ich eine agile Projektmanagerin, ein agiler Projektmanager.
+Viel wird über Scrum geschrieben. Es sei ein Allheilmittel für sämtliche organisatorischen Wehwehchen, die Lösung aller projektmanagementtechnischen Probleme, [Agilität](/was-sind-scrum-und-kanban-eigentlich) und Glückseligkeit. Ganz schön viel Erwartungshaltung für ein [Framework, dessen Dokumentation gerade mal 16 Seiten Inhalt hat](/too-scrum). Aber ich denke, diese Einfachheit, diese (absichtliche) Limitiertheit ist auch das Geheimnis des Erfolges von Scrum. Ich muss nicht viel Ahnung von Prozess- und Projektmanagement (das ja mehr oder weniger eine Unterkategorie von ersterem ist) haben, um Scrum verstehen zu können. Ein bisschen neue Türschilder, ein bisschen Reviews und Retros, ein bisschen Dailies, ein bisschen Feenstaub und schon bin ich eine agile Projektmanagerin, ein agiler Projektmanager.
 
 ### Warum das gut ist
 
@@ -40,9 +40,9 @@ Für den Anfang ist das wertvoll und gut. Eine neue Denkweise, ein neuer Ansatz.
 
 ### Sehe das nur ich so?
 
-Nein. Warum würde es sonst mit LeSS, SAFe, scrum of scrums, Scrum@Scale, etc., so viele [Versuche geben, Scrum zu skalieren](/scaling-scrum)? Warum sonst würden Sutherland und Schwaber primär mit dem Angebot von immer neuen Zertifizierungen beschäftigt sein? Warum sonst würde es dann so viele verzweifelte (Fehl-)versuche geben, Scrum außerhalb der Softwareentwicklung einzusetzen? Meine Meinung: Scrum ist tot.  
+Nein. Warum würde es sonst mit LeSS, SAFe, scrum of scrums, Scrum@Scale, etc., so viele [Versuche geben, Scrum zu skalieren](/was-haenschen-nicht-lernt-scaling-scrum)? Warum sonst würden Sutherland und Schwaber primär mit dem Angebot von immer neuen Zertifizierungen beschäftigt sein? Warum sonst würde es dann so viele verzweifelte (Fehl-)versuche geben, Scrum außerhalb der Softwareentwicklung einzusetzen? Meine Meinung: Scrum ist tot.  
 
-Nicht nur in der Softwareentwicklung, generell ist eine Unterscheidung zwischen Run und Change, zwischen der Prozesswelt und der Projektwelt, zwischen Operations und Veränderung immer schwieriger. Frameworks, Ansätze, Methodiken, die da bestehen wollen, müssen nicht nur [über den Tellerrand sehen](/modernes-projektmanagement), sie müssen auch auf einer viel tieferen Ebene ansetzen, als unser Scrum das macht.
+Nicht nur in der Softwareentwicklung, generell ist eine Unterscheidung zwischen Run und Change, zwischen der Prozesswelt und der Projektwelt, zwischen Operations und Veränderung immer schwieriger. Frameworks, Ansätze, Methodiken, die da bestehen wollen, müssen nicht nur [über den Tellerrand sehen](/modernes-projektmanagement-der-methodische-teil), sie müssen auch auf einer viel tieferen Ebene ansetzen, als unser Scrum das macht.
 
 ### Ist Scrum also schlecht?
 

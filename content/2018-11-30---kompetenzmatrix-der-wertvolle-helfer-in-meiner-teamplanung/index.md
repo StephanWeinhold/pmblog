@@ -15,7 +15,7 @@ Wie ich notwendige Skills für mein Projekt erfasse und etwaige Defizite in mein
 
 ### Am Anfang war der Plan
 
-Da haben wir also unsere WBS erstellt, den Critical Path berechnet, die Arbeitspakete analysiert, unser Ressource Management geplant und darauf basierend unser Projektteam zusammengestellt. Und jetzt? In allen [Metaframeworks](/modernes-projektmanagement) die ich kenne, kommt nun das, was im PMBOK-Guide so schön _Develop Project Team_ benannt wird. Das Team entwickeln und formen und vorbereiten auf die Aufgaben, die da ihrer harren. Und das ist eine wahnsinnig wichtige Tätigkeit. Studien zeigen, dass Talentdefizite eine riesen Auswirkung auf das Projektergebnis haben. Und ja, das wissen wir natürlich. Und streng nach Lehrbuch ist so ein Projektteam ja auch aus lauter Idealbesetzungen zusammengestellt.
+Da haben wir also unsere WBS erstellt, den Critical Path berechnet, die Arbeitspakete analysiert, unser Ressource Management geplant und darauf basierend unser Projektteam zusammengestellt. Und jetzt? In allen [Metaframeworks](/modernes-projektmanagement-der-methodische-teil) die ich kenne, kommt nun das, was im PMBOK-Guide so schön _Develop Project Team_ benannt wird. Das Team entwickeln und formen und vorbereiten auf die Aufgaben, die da ihrer harren. Und das ist eine wahnsinnig wichtige Tätigkeit. Studien zeigen, dass Talentdefizite eine riesen Auswirkung auf das Projektergebnis haben. Und ja, das wissen wir natürlich. Und streng nach Lehrbuch ist so ein Projektteam ja auch aus lauter Idealbesetzungen zusammengestellt.
 
 ### Manche Dinge ändern sich nie
 
@@ -54,7 +54,7 @@ Und der Vollständigkeit halber: in meinen Augen ist es sinnvoll, dass die Anzah
 
 ### 3. Von Soll zu Ist
 
-Der nächste Schritt sollte eigentlich logisch sein. Wenn ich zuerst den Soll-Stand ermittelt habe, möchte ich natürlich auch den Ist-Stand herausfinden. Dabei ist es wichtig, dass ich bereits die Möglichkeit hatte, in meinem Team eine Atmosphäre der Sicherheit zu schaffen. [Agile Projektmanager](/fuehrungskraefte-und-die-umstellung-auf-agilitaet) haben hier einen Vorteil, aber eigentlich hat das weniger mit “Agilität”, sondern mehr mit einer offenen Kultur zu tun. Denn nur, wenn meine Teammitglieder sich sicher fühlen, haben sie auch den Mut, zuzugeben, dass sie sich in manchen Bereichen ihrer Domäne nicht so sehr auskennen, wie in anderen.
+Der nächste Schritt sollte eigentlich logisch sein. Wenn ich zuerst den Soll-Stand ermittelt habe, möchte ich natürlich auch den Ist-Stand herausfinden. Dabei ist es wichtig, dass ich bereits die Möglichkeit hatte, in meinem Team eine Atmosphäre der Sicherheit zu schaffen. [Agile Projektmanager](/fuehrungskraefte-und-die-umstellung-auf-agilitat) haben hier einen Vorteil, aber eigentlich hat das weniger mit “Agilität”, sondern mehr mit einer offenen Kultur zu tun. Denn nur, wenn meine Teammitglieder sich sicher fühlen, haben sie auch den Mut, zuzugeben, dass sie sich in manchen Bereichen ihrer Domäne nicht so sehr auskennen, wie in anderen.
 
 Jetzt muss ich nur mehr die Differenzen zwischen Soll und Ist berechnen und e voila, ich habe meine Kompetenzmatrix. Dabei gibt es einen kleinen Punkt zu beachten. Schaut z.B. mal auf die Padawans in Zeile 6 (_Frontend Development_) meines Bespieles. Ich benötige 2 und habe 0. Eigentlich hätte ich hier also ein Skilldefizit. Allerdings habe ich 2 Jedis mehr, als ich benötige. Die (über-)erfüllen hier also die Padawan-Rolle. Logisch, oder?
 

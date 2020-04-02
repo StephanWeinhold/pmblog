@@ -32,7 +32,7 @@ Effizient ist etwas anderes als effektiv. Ja, wir haben als Scrum Master verdamm
 
 ### Verbrennt alle Checklisten
 
-Vertraut Euren Teams! Die können das alles recht gut alleine. Vergesst alle Checklisten für Scrum Master, die Euch die Scrum-Hohepriester so ans Herz gelegt haben (außer [dieser hier](/scrum-master-checkliste/)). Benutzt Euren Hausverstand. Ja, der ist uns oft im Weg, aber hier hilft er ungemein.
+Vertraut Euren Teams! Die können das alles recht gut alleine. Vergesst alle Checklisten für Scrum Master, die Euch die Scrum-Hohepriester so ans Herz gelegt haben (außer [dieser hier](/die-checkliste-fuer-scrum-master)). Benutzt Euren Hausverstand. Ja, der ist uns oft im Weg, aber hier hilft er ungemein.
 
 Sind wir uns ehrlich: wenn ich zwei Wochen auf Urlaub bin und während meiner Abwesenheit geht mein Team komplett den Bach runter, habe ich irgendetwas falsch gemacht. Nicht kurz vor meinem Urlaub, sondern eigentlich die ganze Zeit lang.
 
