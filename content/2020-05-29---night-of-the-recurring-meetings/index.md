@@ -28,18 +28,18 @@ Eine große Menge an wiederkehrenden Meetings im Kalender hat etliche Auswirkung
 Nicht ganz so offensichtlich ist der zweite große Effekt. Projektpläne sind falsch. Wenn ein Team etwas fertig machen soll und ein Drittel des Tages in wiederkehrenden Meetings sitzt (und wem das viel vorkommt: in vielen Firmen ist das nicht unüblich), werden sie nur maximal zwei Drittel der geplanten Arbeit fertig bekommen. Wenn ich das nicht entsprechend berücksichtige, werden Projekte rasch enorme Verzögerungen bekommen. Das wirkt sich dann negativ auf _Time Baseline_, Kosten, Qualität, Ihr-wisst-worauf-ich-hinaus-will aus.  
 Und der dritte Effekt ist der, der mir als Organisation am meisten weh tut und den ich erst zuletzt bemerke: Demotivation. Mitarbeiter, die ständig in für sie meist belanglosen Runden sitzen müssen, werden auf Dauer extrem demotiviert werden.
 
-Und das schlimmste daran? Alle diese negativen Effekte werden durch die Tatsache potentiert, dass diese Besprechungen ja nur selten geblockt vorkommen, sondern häufig lustig querbeet über den Tag verteilt sind. Hier eine halbe Stunde, dort eine ganze. Also werden die Menschen regelmäßig aus Ihrem Fokus gerissen. Und das so etwas der Produktivität nicht unbedingt zuträglich ist, wissen wir alle.
+Und das schlimmste daran? Alle diese negativen Effekte werden durch die Tatsache potentiert, dass diese Besprechungen ja nur selten geblockt vorkommen, sondern häufig lustig querbeet über den Tag verteilt sind. Hier eine halbe Stunde, dort eine ganze. Also werden die Menschen regelmäßig aus Ihrem Fokus gerissen. Und dass so etwas der Produktivität nicht unbedingt zuträglich ist, wissen wir alle.
 
 ### Warum machen wir dann diese wiederholenden Besprechungen, wenn sie so schlecht sind?
 
-Gute Frage. Nicht wahr? So richtig Vorwürfe kann man da eigentlich niemand machen. (Abgesehen davon, dass wirVorwürfe ohnehin vermeiden sollten.) Natürlich hatte jede einzelne dieser Einladungen irgend wann mal für sich allein betrachtet ihre Daseinsberechtigung. Nur in Summe bilden sie halt irgendwann einen riesen Behemoth, der alles erdrückt. Vor allem Organisationen, die sich gerade im Umbruch befinden, durchlaufen das recht oft. Nicht umsonst basieren die klar definierten und zeitlich begrenzten Meetings in Scrum auf der Beobachtung, dass die Leute in agilen Unternehmen irgendwann plötzlich nur mehr besprechen und nicht mehr arbeiten.
+Gute Frage. Nicht wahr? So richtig Vorwürfe kann man da eigentlich niemand machen. (Abgesehen davon, dass wir Vorwürfe ohnehin vermeiden sollten.) Natürlich hatte jede einzelne dieser Einladungen irgend wann mal für sich allein betrachtet ihre Daseinsberechtigung. Nur in Summe bilden sie halt irgendwann einen riesen Behemoth, der alles erdrückt. Vor allem Organisationen, die sich gerade im Umbruch befinden, durchlaufen das recht oft. Nicht umsonst basieren die klar definierten und zeitlich begrenzten Meetings in Scrum auf der Beobachtung, dass die Leute in agilen Unternehmen irgendwann plötzlich nur mehr besprechen und nicht mehr arbeiten.
 
 Und dann gibt es da noch die Angst. Die ist für uns Menschen viel zu oft ein Motivator. _Wie schaut das denn aus, wenn in meinem Kalender nichts drinnen steht? Als hätte ich den ganzen lieben langen Tag lang nix zu tun._ Also schnell ein paar Einladungen ausgeschickt und jede reinkommende blind angenommen.  
 Das gibt uns zwar vielleicht Sicherheit, hemt uns aber auf jeden Fall gewaltig.
 
 ### Und was jetzt?
 
-Wenn Ihr ob des bisherigen Gelesenen fasziniert den Kopf schüttelt, während Ihr auf Euren Kalender schaut, in dem sich kaum recurring Meetings befinden: freut Euch! Ihr seid eine seltene Spezies. Oder Ihr habt gerade Euren ersten Arbeitstag in Eurer neuen Firma. Auf jeden Fall: herzlichen Glückwunsch!  
+Wenn Ihr ob des bisherigen Gelesenen fasziniert den Kopf schüttelt, während Ihr auf Euren Kalender schaut, in dem sich kaum recurring Meetings befinden, freut Euch! Ihr seid eine seltene Spezies. Oder Ihr habt gerade Euren ersten Arbeitstag in Eurer neuen Firma. Auf jeden Fall: herzlichen Glückwunsch!  
 Für alle alle anderen hab ich eine Methodik, die ich seit bald 20 Jahren regelmäßig anwende: _Kill all the bad Zombies_.
 
 ### 1. Zombies finden und zähmen
@@ -70,5 +70,5 @@ Et voilà. Ihr habt wunderbar aufgeräumte Kalender, die die Menschen in Eurer O
 
 Diese Vorgehensweise ist nicht überall leicht machbar, das ist mir durchaus bewusst. Aber oft ist der Leidensdruck so hoch, das in meinen Augen und meiner Erfahrung nach nichts anderes mehr hilft. So Kalender voll wiederkehrender Meetings sind ja nicht über Nacht entstanden, sondern gewachsen. Und wie bei einem Rosenbusch muss ich ab und zu recht radikal zusammenschneiden, um wieder schöne Resultate zu bekommen.
 
-Hinterfragt einfach die wiederkehrenden Besprechungen Eurer Organisation. Immer wieder aufs Neue. Wie wir sonst auch ja recht gut darin sind, alles mögliche zu hinterfragen. Wer viel fragt, geht viel irr. Wer richtig fragt, geht weit. Und traut Euch, eine Einladung auch mal abzulehnen. (In Firmen, wo die Kultur das als grobes Foul sieht, genügt es, auf "vielleicht" zu klicken.)  
-Rückt die recurring Meetings in den Fokus, räumt die Zombies aus dem Weg, und Ihr werdet wieder Luft für fokusiertes Arbeiten haben. Und das ist etwas wunderbares!
+Hinterfragt die wiederkehrenden Besprechungen Eurer Organisation. Immer wieder aufs Neue. Wie wir sonst auch ja recht gut darin sind, alles Mögliche zu hinterfragen. Wer viel fragt, geht viel irr. Wer richtig fragt, geht weit. Und traut Euch, eine Einladung auch mal abzulehnen. (In Firmen, wo die Kultur das als grobes Foul sieht, genügt es, auf "vielleicht" zu klicken.)  
+Rückt die recurring Meetings in den Fokus, räumt die Zombies aus dem Weg, und Ihr werdet wieder Luft für fokusiertes Arbeiten haben. Und das ist etwas Wunderbares!
