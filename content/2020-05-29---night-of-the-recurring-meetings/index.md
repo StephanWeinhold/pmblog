@@ -3,7 +3,7 @@ layout: post
 draft: true
 cover: "./recurring-meetings.jpg"
 title: "Night of the recurring meetings"
-date: 2020-01-30T20:00:00.000Z
+date: 2020-02-29T20:00:00.000Z
 path: /night-of-the-recurring-meetings
 category: "tippsUndTricks"
 tags: ["meetings"]
@@ -23,8 +23,10 @@ Bevor wir loslegen, noch ein kurzer Hinweis. Ich rede hier nicht von Meetings ge
 
 ### Auswirkungen
 
-Eine große Menge an wiederkehrenden Meetings hat etliche Auswirkungen, die sich alle in einem Wort zusammenfassen lassen: teuer. Und zwar in vielerlei Hinsicht. Da ist natürlich die banale Kostenseite. Wir Projektmenschen haben ja oft Kostentabellen. Rolle X kostet Euro Y pro Stunde. Wenn Ihr so eine Tabelle habt, könnt Ihr ganz einfach den monetären Aufwand für die ganzen wiederkehrenden Meetings berechnen. Und der ist oft erschreckend hoch. Vor allem Anbetracht des Outcomes dieser Treffen.
-Nicht ganz so offensichtlich ist der zweite große Effekt. Prioritäten bleiben auf der Strecke.
+Eine große Menge an wiederkehrenden Meetings im Kalender hat etliche Auswirkungen, die sich alle in einem Wort zusammenfassen lassen: teuer. Und zwar in vielerlei Hinsicht. Da ist natürlich die banale Kostenseite. Wir Projektmenschen haben ja oft Kostentabellen. Rolle X kostet Euro Y pro Stunde. Wenn Ihr so eine Tabelle habt, könnt Ihr ganz einfach den monetären Aufwand für die ganzen wiederkehrenden Meetings berechnen. Und der ist oft erschreckend hoch. Vor allem Anbetracht des Outcomes dieser Treffen. Da kommt so ein einstündiges Treffen schnell mal auf 1.000 Euro und mehr. Jede Woche.
+
+Nicht ganz so offensichtlich ist der zweite große Effekt. Prioritäten bleiben auf der Strecke. Das bedeutet, Projektpläne sind falsch. Wenn ein Team etwas fertig machen soll und ein Drittel des Tages in wiederkehrenden Meetings sitzt (und wem das viel vorkommt: in vielen Firmen ist das nicht unüblich), werden sie nur zwei Drittel der geplanten Arbeit fertig bekommen.
+
 Demotivation
 
 ### Warum
