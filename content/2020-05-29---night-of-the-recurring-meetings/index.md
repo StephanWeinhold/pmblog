@@ -3,7 +3,7 @@ layout: post
 draft: false
 cover: "./recurring-meetings.jpg"
 title: "Night of the recurring meetings"
-date: 2020-02-29T20:00:00.000Z
+date: 2020-05-29T20:00:00.000Z
 path: /night-of-the-recurring-meetings
 category: "tippsUndTricks"
 tags: ["meetings"]
