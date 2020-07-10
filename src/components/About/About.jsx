@@ -12,8 +12,8 @@ class About extends Component {
             <strong>Stephan Weinhold</strong>
           </a> 
           {" "}
-          ist ein Projektmanager mit 
-          über 15 Jahren Erfahrung im hybriden Projektmanagement, einer Vorliebe für 
+          ist ein Projektmanagementphilosoph 
+          mit über 15 Jahren Erfahrung im Projektmanagement und agiler Arbeit, einer Vorliebe für 
           Technologie, und ohne Scheu, anzupacken und Neues auf die Beine zu stellen. 
           Er hat unter anderem Projekte in den Bereichen IT,
           Lebensmitteltechnologie, und Banking in über 20 Ländern gemanagt und beraten.
@@ -37,7 +37,8 @@ class About extends Component {
           ist ein Blog über modernes Projektmanagement in all seinen Ausprägungen.
           Klassisch, agil, hybrid. Ich schreibe hier meine Gedanken zu den Entwicklungen, 
           Trends, Problemen und Herausforderungen, denen wir in unserem Arbeitsalltag 
-          als Projektarbeiter so begegnen und wie die Lösungen dazu in meinen Augen aussehen könnten.
+          als Projektarbeiter so begegnen und wie die Lösungen dazu in meinen Augen aussehen könnten. 
+          Und eine ordentliche Portion Projektmanagementphilosophie ist auch dabei.
         </p>
       </div>
     );
