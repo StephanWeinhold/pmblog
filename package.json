@@ -32,7 +32,7 @@
     "gatsby-transformer-sharp": "^2.1.19",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
-    "npm": "^6.10.1",
+    "npm": "^7.0.0",
     "prismjs": "^1.16.0",
     "react": "^17.0.0",
     "react-cookie-consent": "^6.0.0",
