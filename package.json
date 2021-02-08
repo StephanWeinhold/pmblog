@@ -58,7 +58,7 @@
     "stylefmt": "6.0.3",
     "stylelint": "13.7.2",
     "stylelint-config-standard": "20.0.0",
-    "write-good": "1.0.5"
+    "write-good": "1.0.6"
   },
   "keywords": [
     "gatsby"
