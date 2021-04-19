@@ -40,7 +40,7 @@
     "react-helmet": "^5.2.1",
     "react-scrolltop-button": "^0.1.6",
     "react-share": "^4.0.0",
-    "react-twitter-widgets": "^1.7.1",
+    "react-twitter-widgets": "^1.10.0",
     "url-join": "^4.0.0"
   },
   "devDependencies": {
